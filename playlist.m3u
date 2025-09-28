@@ -1,0 +1,60 @@
+#EXTM3U x-tvg-url="https://show.188766.xyz/e.xml"
+
+#EXTINF:-1 tvg-id="PSN1" tvg-name="PSN1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",PSN-1 MN
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime-avc1_2000000=32-mp4a_256000=15.m3u8
+#EXTINF:-1 tvg-id="PSN2" tvg-name="PSN2" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",PSN-2 MN
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay-avc1_3000000=7-mp4a_256000_eng=5.m3u8
+#EXTINF:-1 tvg-id="PSN5" tvg-name="PSN5" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",PSN-5 MN
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus-avc1_2000000=9-mp4a_256000=7.m3u8
+#EXTINF:-1 tvg-id="Shin" tvg-name="Shin" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",Shin
+https://pull01.yyzb456.top/live/stream-505050_lhd.m3u8?auth_key=1759065427-0-0-48599d0e8adbf5ca7849c741d4504290
+#EXTINF:-1 tvg-id="Beck" tvg-name="Beck" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",Beck
+https://pull01.yyzb456.top/live/stream-558696_lhd.m3u8?auth_key=1759065487-0-0-ad6901ec69087afffc65edd886d4f7d4
+#EXTINF:-1 tvg-id="Deer" tvg-name="Deer" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",Deer
+https://pull01.yyzb456.top/live/stream-606060_lhd.m3u8?auth_key=1759065247-0-0-99cf24943884779594b038e3ce73a965
+
+#EXTINF:-1 tvg-id="AJE" tvg-name="AJE" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",AJE
+https://live-hls-apps-aje-fa.getaj.net/alternative/AJE/04.m3u8
+#EXTINF:-1 tvg-id="TRT" tvg-name="TRT" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",TRT
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_1.m3u8
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",BBC
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
+#EXTINF:-1 tvg-id="CBN" tvg-name="CBN" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",CBN
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_3/chunklist.m3u8
+#EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",CBS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_19.m3u8
+#EXTINF:-1 tvg-id="CNBC World" tvg-name="CNBC World" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",CNBC World
+https://fl7.moveonjoy.com/CNBC_World/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",CNBC
+https://fl7.moveonjoy.com/CNBC/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",ABC News
+https://content-aeuf1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/b.m3u8?pbs=d32f61003e9340c08ea3bd895aa228aa
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",Bloomberg Quicktake
+https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/origin/contribution-m1-bloomberg-quicktake/528k/index.m3u8
+#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",NBC News Now
+https://livetv-fa.tubi.video/nbc-news-now/master_2.m3u8
+#EXTINF:-1 tvg-id="Yahoo" tvg-name="Yahoo" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/360p-cc/index.m3u8
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",NHK World
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_200k.m3u8
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="FR24" tvg-name="FR24" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",FR24
+https://a-cdn.klowdtv.com/live2/france24_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="FR24FR" tvg-name="FR24FR" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",FR24FR
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="LCI" tvg-name="LCI" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",LCI
+https://live-lci-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxMzUuMjMyLjIwMC4yMiIsImNtY2QiOiIiLCJleHAiOjE3NTg2NTU1OTcsImdpZCI6IjZhYzFhY2Y0LTZlMjYtNDYwNC1iMjY2LWFiOWVjMmY3YjEwZCIsImlhdCI6MTc1ODY0MTE5NywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjoyMDAwMDAwLCJzdGVtIjoiL291dC92MS85MTdhYWQ0ZmE3MmY0MmY3YmE3ZjQ4NjIyNmY1NGJjNC9sY2ktY21hZiIsInN1YiI6IjZhYzFhY2Y0LTZlMjYtNDYwNC1iMjY2LWFiOWVjMmY3YjEwZCJ9.0rUs6V5B88gqW0jNdvc97-zg-LoTOap_Y9k_PBnPv6o/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_4.m3u8
+#EXTINF:-1 tvg-id="1-2-3 TV" tvg-name="1-2-3 TV" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",1-2-3 TV
+https://edge0751-01mx1.flex-cdn.net/5b622939c7c2b7771a1214f936c23d58d012a2afb41fe2cb64cd/stream1/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="DFM" tvg-name="DFM" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",DFM
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/chunks.m3u8?nimblesessionid=383139283
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="München TV" tvg-name="München TV" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",München TV
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/chunks.m3u8?nimblesessionid=1109513898
+#EXTINF:-1 tvg-id="WDR 1" tvg-name="WDR 1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",WDR 1 TV
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master-audio1-128.m3u8
