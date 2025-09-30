@@ -12,6 +12,6 @@ export default {
   async fetch(request, env, ctx) {
     // You can view your logs in the Observability dashboard
     console.info({ message: 'K Worker received a request!' }); 
-    return new Response('David开始戒酒, Day: 1');
+    return new Response('Daniel开始戒酒, Day: 1');
   }
 };
