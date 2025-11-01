@@ -6,6 +6,8 @@ https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime-avc1_2000000=32-mp4
 https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay-avc1_3000000=7-mp4a_256000_eng=5.m3u8
 #EXTINF:-1 tvg-id="PSN5" tvg-name="PSN5" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",PSN-5 MN
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus-avc1_2000000=9-mp4a_256000=7.m3u8
+#EXTINF:-1 tvg-id="PremierSports2.mn@SD" tvg-logo="https://i.imgur.com/eMNWhDq.png" group-title="Sport",Premier Sports 2
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
 #EXTINF:-1 tvg-id="Shin" tvg-name="Shin" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",Shin
 https://pull03.yyzb456.top/live/stream-698168_lhd.m3u8?auth_key=1762020301-0-0-13264d326c1cd7def1f62eb16796c000
 #EXTINF:-1 tvg-id="Beck" tvg-name="Beck" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",Beck
