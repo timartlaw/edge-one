@@ -15,9 +15,9 @@ https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-id="PremierSports5.mn@SD" tvg-logo="https://i.imgur.com/eMNWhDq.png" group-title="Sport",Premier Sports 5
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 #EXTINF:-1 tvg-id="Shin" tvg-name="Shin" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",Shin
-https://pull03.yyzb456.top/live/stream-698168_lhd.m3u8?auth_key=1762020301-0-0-13264d326c1cd7def1f62eb16796c000
+https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?auth_key=1763306050-0-0-99fa9bec4a57d2c2c0ec92ff4e4603be
 #EXTINF:-1 tvg-id="Beck" tvg-name="Beck" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",Beck
-https://pull01.yyzb456.top/live/stream-558696_lhd.m3u8?auth_key=1759065487-0-0-ad6901ec69087afffc65edd886d4f7d4
+https://pullsgp.yyzb456.top/live/stream-558696_lhd.m3u8?auth_key=1763305990-0-0-7d4d541710d5ac8b9f50437825787d6b
 #EXTINF:-1 tvg-id="Deer" tvg-name="Deer" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",Deer
 https://pullsgp.yyzb456.top/live/stream-606060_lhd.m3u8?auth_key=1763301731-0-0-a1bd601b5b86962710552fe7321a78ff
 #EXTINF:-1 tvg-name="DAZN体育1" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育1.png" group-title="Sport",DAZN体育1
@@ -325,6 +325,12 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/strea
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/chunks.m3u8?nimblesessionid=1109513898
 #EXTINF:-1 tvg-id="WDR 1" tvg-name="WDR 1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",WDR 1 TV
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master-audio1-128.m3u8
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",NHK World
+https://origin-cae-d568794.cdn.nextologies.com/00489ab02a9d71cc/AiqMMykgDioH3pnY/17noD2ZwT6eH3cpk/chunks.m3u8
+#EXTINF:-1 tvg-id="QVC" tvg-name="QVC" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",QVC TV
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-id="Shop CH" tvg-name="Shop CH" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",Shop CH
+https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="沈阳之声" tvg-name="沈阳之声" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Radio",沈阳之声广播1045
 https://live.ximalaya.com/radio-first-page-app/live/328/64.m3u8?transcode=ts
