@@ -15,7 +15,7 @@ https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-id="PremierSports5.mn@SD" tvg-logo="https://i.imgur.com/eMNWhDq.png" group-title="Sport",Premier Sports 5
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 #EXTINF:-1 tvg-id="Shin" tvg-name="Shin" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",Shin
-https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?auth_key=1763306050-0-0-99fa9bec4a57d2c2c0ec92ff4e4603be
+https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?auth_key=1766246779-0-0-28fef51b7f0c9bad3dfac9520d8eb8f4
 #EXTINF:-1 tvg-id="Beck" tvg-name="Beck" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",Beck
 https://pullsgp.yyzb456.top/live/stream-558696_lhd.m3u8?auth_key=1763305990-0-0-7d4d541710d5ac8b9f50437825787d6b
 #EXTINF:-1 tvg-id="Deer" tvg-name="Deer" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",Deer
@@ -39,6 +39,14 @@ https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_1.m3u8
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
+#EXTINF:-1 tvg-id="FR24FR" tvg-name="FR24FR" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",FR24FR
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="WDR 1" tvg-name="WDR 1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",WDR 1 TV
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master-audio1-128.m3u8
+#EXTINF:-1 tvg-id="QVC" tvg-name="QVC" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",QVC TV
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-id="Shop CH" tvg-name="Shop CH" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",Shop CH
+https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
 #EXTINF:-1 tvg-id="CBN" tvg-name="CBN" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",CBN
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_3/chunklist.m3u8
 #EXTINF:-1 tvg-id="CBN News" tvg-name="CBN News" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",CBN News
@@ -311,8 +319,6 @@ https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8
 
 #EXTINF:-1 tvg-id="FR24" tvg-name="FR24" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",FR24
 https://a-cdn.klowdtv.com/live2/france24_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="FR24FR" tvg-name="FR24FR" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",FR24FR
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="LCI" tvg-name="LCI" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",LCI
 https://live-lci-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxMzUuMjMyLjIwMC4yMiIsImNtY2QiOiIiLCJleHAiOjE3NTg2NTU1OTcsImdpZCI6IjZhYzFhY2Y0LTZlMjYtNDYwNC1iMjY2LWFiOWVjMmY3YjEwZCIsImlhdCI6MTc1ODY0MTE5NywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjoyMDAwMDAwLCJzdGVtIjoiL291dC92MS85MTdhYWQ0ZmE3MmY0MmY3YmE3ZjQ4NjIyNmY1NGJjNC9sY2ktY21hZiIsInN1YiI6IjZhYzFhY2Y0LTZlMjYtNDYwNC1iMjY2LWFiOWVjMmY3YjEwZCJ9.0rUs6V5B88gqW0jNdvc97-zg-LoTOap_Y9k_PBnPv6o/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index_4.m3u8
 #EXTINF:-1 tvg-id="1-2-3 TV" tvg-name="1-2-3 TV" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",1-2-3 TV
@@ -323,14 +329,8 @@ https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/chunks.m3u8?nimblesessionid=3831392
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="München TV" tvg-name="München TV" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",München TV
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/chunks.m3u8?nimblesessionid=1109513898
-#EXTINF:-1 tvg-id="WDR 1" tvg-name="WDR 1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",WDR 1 TV
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master-audio1-128.m3u8
 #EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",NHK World
 https://origin-cae-d568794.cdn.nextologies.com/00489ab02a9d71cc/AiqMMykgDioH3pnY/17noD2ZwT6eH3cpk/chunks.m3u8
-#EXTINF:-1 tvg-id="QVC" tvg-name="QVC" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",QVC TV
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 tvg-id="Shop CH" tvg-name="Shop CH" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Tor",Shop CH
-https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="沈阳之声" tvg-name="沈阳之声" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Radio",沈阳之声广播1045
 https://live.ximalaya.com/radio-first-page-app/live/328/64.m3u8?transcode=ts
