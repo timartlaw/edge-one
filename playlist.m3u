@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
-#EXTINF:-1 tvg-id="PSN1" tvg-name="PSN1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",PSN-1 MN
+#EXTINF:-1 tvg-id="PSN1" tvg-name="PSN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="Sport",PSN-1 MN
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime-avc1_2000000=32-mp4a_256000=15.m3u8
-#EXTINF:-1 tvg-id="PSN2" tvg-name="PSN2" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",PSN-2 MN
+#EXTINF:-1 tvg-id="PSN2" tvg-name="PSN2" tvg-logo="https://www.psn.mn/img/PSN2.07a6f344.png" group-title="Sport",PSN-2 MN
 https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay-avc1_3000000=7-mp4a_256000_eng=5.m3u8
 #EXTINF:-1 tvg-id="PSN5" tvg-name="PSN5" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sport",PSN-5 MN
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus-avc1_2000000=9-mp4a_256000=7.m3u8
@@ -92,17 +92,17 @@ https://7pal.short.gy/espn2
 #EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://i.imgur.com/tx3IEJV.png" group-title="Nowsports",国家冰球联盟频道
 https://7pal.short.gy/nhlnw
 
-#EXTINF:-1 tvg-id="AJE" tvg-name="AJE" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",AJE
+#EXTINF:-1 tvg-id="AJE" tvg-name="AJE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Al_Jazeera_Media_Network_Logo_design.png" group-title="News",AJE
 https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-id="TRT" tvg-name="TRT" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",TRT
+#EXTINF:-1 tvg-id="TRT" tvg-name="TRT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/TRT_World_logo.svg" group-title="News",TRT
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_1.m3u8
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",BBC
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/BBC_logo_%281997-2021%29.svg/1200px-BBC_logo_%281997-2021%29.svg.png" group-title="News",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
-#EXTINF:-1 tvg-id="FR24FR" tvg-name="FR24FR" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",FR24FR
+#EXTINF:-1 tvg-id="FR24FR" tvg-name="FR24FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="News",FR24FR
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="WDR 1" tvg-name="WDR 1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",WDR 1 TV
+#EXTINF:-1 tvg-id="WDR 1" tvg-name="WDR 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/WDR_1LIVE_Logo_2016.svg" group-title="News",WDR 1 TV
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master-audio1-128.m3u8
 #EXTINF:-1 tvg-id="QVC" tvg-name="QVC" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",QVC TV
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
