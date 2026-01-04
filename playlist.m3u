@@ -138,6 +138,16 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
 #EXTINF:-1 tvg-id="RussiaK.ru@SD" group-title="News",Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD" group-title="News",3Cat Càmeres del temps (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+#EXTINF:-1 tvg-id="3CatElbunquer.es@SD" group-title="News",3Cat El búnquer (1080p)
+https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8
+#EXTINF:-1 tvg-id="3CatInfo.es@SD" group-title="News",3CatInfo (1080p)
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="24Horas.es@SD" group-title="News",24 Horas (1080p)
+https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+#EXTINF:-1 tvg-id="24HorasInternacional.es@SD" group-title="News",24 Horas Internacional
+https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 
 #EXTINF:-1 tvg-id="CBN" tvg-name="CBN" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",CBN
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_3/chunklist.m3u8
