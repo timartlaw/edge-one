@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-
+#Sport
 #EXTINF:-1 tvg-id="PSN1" tvg-name="PSN1" tvg-logo="https://www.psn.mn/img/PSN1.380a638f.png" group-title="Sport",PSN-1 MN
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime-avc1_2000000=32-mp4a_256000=15.m3u8
 #EXTINF:-1 tvg-id="PSN2" tvg-name="PSN2" tvg-logo="https://www.psn.mn/img/PSN2.07a6f344.png" group-title="Sport",PSN-2 MN
@@ -24,7 +24,7 @@ https://pullsgp.yyzb456.top/live/stream-606060_lhd.m3u8?auth_key=1763301731-0-0-
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-name="DAZN体育2" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育2.png" group-title="Sport",DAZN体育2
 rtmp://f13h.mine.nu/sat/tv741
-
+#Nowsports
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Nowsports",天空体育主赛事超高清
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="Nowsports",星和英超1台全高清
@@ -89,7 +89,7 @@ https://7pal.short.gy/espn2
 https://7pal.short.gy/nhlnw
 #EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="Nowsports",欧洲体育4K
 https://7pal.short.gy/eusport4k
-
+#News
 #EXTINF:-1 tvg-id="AJE" tvg-name="AJE" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/aljazeera.png" group-title="News",AJE
 https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-id="TRT" tvg-name="TRT" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/TRT-World.png" group-title="News",TRT
@@ -212,7 +212,7 @@ http://45.235.0.78/TV5_Monde/index.m3u8
 #港澳台频道
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Phoenix4.png" group-title="港澳台频道",凤凰电影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-
+#Tor
 #EXTINF:-1 tvg-id="BBC Two" tvg-name="BBC Two" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/BBCWORLDNEWSASIA.png" group-title="Tor",BBC Two
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 #EXTINF:-1 tvg-id="BBC Three" tvg-name="BBC Three" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/BBCWORLDNEWSASIA.png" group-title="Tor",BBC Three
