@@ -75,18 +75,66 @@ https://7pal.short.gy/skyspt1nz
 https://7pal.short.gy/skyspt5nz
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Nowsports",天空体育7台新西兰全高清
 https://7pal.short.gy/skyspt7nz
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4-us" tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4" tvg-chno="" tvg-name="beIN SPORTS XTRA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2bc78162-f4bb-4276-8df3-85c13133df3f/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png" group-title="Nowsports",beIN SPORTS XTRA
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4.m3u8
+#EXTINF:-1 channel-id="697140a85d851f5e69414688-669994d717c9985deeb74e3b-au" tvg-id="697140a85d851f5e69414688-669994d717c9985deeb74e3b" tvg-chno="" tvg-name="beIN SPORTS XTRA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2188ad12-5a12-4fd1-b1be-8b104513f0ec/BSXtra_logo_fordark_bg_1500x1000.png" group-title="Nowsports",beIN SPORTS XTRA
+https://jmp2.uk/plex-697140a85d851f5e69414688-669994d717c9985deeb74e3b.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-64a8903d273b89c4e7396553-us" tvg-id="5e20b730f2f8d5003d739db7-64a8903d273b89c4e7396553" tvg-chno="" tvg-name="beIN Sports Xtra en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/367f55e2-df38-4fc5-b6cf-c102fd938601/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png" group-title="Nowsports",beIN Sports Xtra en Español
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64a8903d273b89c4e7396553.m3u8
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-64a8903d273b89c4e7396553-ca" tvg-id="647f8d22a2fc3fadb4721685-64a8903d273b89c4e7396553" tvg-chno="" tvg-name="beIN Sports Xtra en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/367f55e2-df38-4fc5-b6cf-c102fd938601/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png" group-title="Nowsports",beIN Sports Xtra en Español
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-64a8903d273b89c4e7396553.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="Nowsports",TNT体育终极版
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 tvg-id="Prima.4K.ro" tvg-logo="https://i.imgur.com/TrumXXV.png" group-title="Nowsports",普里马4K体育
+https://7pal.short.gy/prima4k
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="Nowsports",齐戈体育超高清
+https://7pal.short.gy/ZiggoSport
+#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-logo="https://i.imgur.com/26c7mQb.png" group-title="Nowsports",M+西甲超高清
+https://7pal.short.gy/mplusuhd
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://i.imgur.com/ttlElcO.png" group-title="Nowsports",体育网一台
+https://7pal.short.gy/sptsnet1
 #EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="Nowsports",体育网360台
 https://7pal.short.gy/sptsnet360
-#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://i.imgur.com/a7ZwpAe.png" group-title="Nowsports",美国网络频道全高清
-https://7pal.short.gy/usanetwork
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://i.imgur.com/UDfhP02.png" group-title="Nowsports",体育网安大略省台
+https://7pal.short.gy/sptsneton
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/VUPAGWN.png" group-title="Nowsports",加拿大体育网1台
+https://7pal.short.gy/tsn1ca
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://i.imgur.com/SWscg4w.png" group-title="Nowsports",加拿大体育网2台
+https://7pal.short.gy/tsn2ca
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/KBQSJxA.png" group-title="Nowsports",加拿大体育网3台
+https://7pal.short.gy/tsn3ca
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/ofAoWIg.png" group-title="Nowsports",加拿大体育网4台
+https://7pal.short.gy/tsn4ca
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/6M4zAci.png" group-title="Nowsports",加拿大体育网5台
+https://7pal.short.gy/tsn5ca
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="Nowsports",哥伦比亚广播公司体育网
+https://7pal.short.gy/cbssptnw
+#EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="Nowsports",麦迪逊广场花园频道
+https://7pal.short.gy/msgusa
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://i.imgur.com/XKBiWym.jpg" group-title="Nowsports",国家橄榄球联盟频道
+https://7pal.short.gy/nflnw
 #EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-logo="https://i.imgur.com/R4P4iyv.png" group-title="Nowsports",美国国家橄榄球联盟红区频道
 https://7pal.short.gy/nflredz
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Nowsports",娱乐与体育节目电视网
 https://7pal.short.gy/espnus
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Nowsports",娱乐与体育节目电视网2台
-https://7pal.short.gy/espn2
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://i.imgur.com/ZGrahiw.png" group-title="Nowsports",美国职业棒球大联盟频道
+https://7pal.short.gy/mlbnw
 #EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://i.imgur.com/tx3IEJV.png" group-title="Nowsports",国家冰球联盟频道
 https://7pal.short.gy/nhlnw
+#EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="Nowsports",网球频道
+https://7pal.short.gy/tennisc
+#EXTINF:-1 tvg-id="SEC.Network.us" tvg-logo="https://i.imgur.com/Syh6HDB.png" group-title="Nowsports",东南联盟频道
+https://7pal.short.gy/secnw
+#EXTINF:-1 tvg-id="YES.Network.us" tvg-logo="https://i.imgur.com/TNICRph.png" group-title="Nowsports",YES网络频道
+https://7pal.short.gy/yesnw
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Nowsports",赛事1
+https://7pal.short.gy/event1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Nowsports",赛事2
+https://7pal.short.gy/event2
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Nowsports",赛事3
+https://7pal.short.gy/event3
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Nowsports",赛事4
+https://7pal.short.gy/event4
 #EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="Nowsports",欧洲体育4K
 https://7pal.short.gy/eusport4k
 #News
