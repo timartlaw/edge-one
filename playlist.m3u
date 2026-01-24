@@ -24,6 +24,8 @@ https://pullsgp.yyzb456.top/live/stream-606060_lhd.m3u8?auth_key=1763301731-0-0-
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-name="DAZN体育2" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育2.png" group-title="Sports",DAZN体育2
 rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1  tvg-name="Bein Sports Xtra" tvg-id="413152" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="Sports",Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #Nowsports
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Nowsports",天空体育主赛事超高清
 https://7pal.short.gy/SSMEuhd
@@ -75,14 +77,6 @@ https://7pal.short.gy/skyspt1nz
 https://7pal.short.gy/skyspt5nz
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Nowsports",天空体育7台新西兰全高清
 https://7pal.short.gy/skyspt7nz
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4-us" tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4" tvg-chno="" tvg-name="beIN SPORTS XTRA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2bc78162-f4bb-4276-8df3-85c13133df3f/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png" group-title="Nowsports",beIN SPORTS XTRA
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4.m3u8
-#EXTINF:-1 channel-id="697140a85d851f5e69414688-669994d717c9985deeb74e3b-au" tvg-id="697140a85d851f5e69414688-669994d717c9985deeb74e3b" tvg-chno="" tvg-name="beIN SPORTS XTRA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2188ad12-5a12-4fd1-b1be-8b104513f0ec/BSXtra_logo_fordark_bg_1500x1000.png" group-title="Nowsports",beIN SPORTS XTRA
-https://jmp2.uk/plex-697140a85d851f5e69414688-669994d717c9985deeb74e3b.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-64a8903d273b89c4e7396553-us" tvg-id="5e20b730f2f8d5003d739db7-64a8903d273b89c4e7396553" tvg-chno="" tvg-name="beIN Sports Xtra en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/367f55e2-df38-4fc5-b6cf-c102fd938601/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png" group-title="Nowsports",beIN Sports Xtra en Español
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64a8903d273b89c4e7396553.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-64a8903d273b89c4e7396553-ca" tvg-id="647f8d22a2fc3fadb4721685-64a8903d273b89c4e7396553" tvg-chno="" tvg-name="beIN Sports Xtra en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/367f55e2-df38-4fc5-b6cf-c102fd938601/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png" group-title="Nowsports",beIN Sports Xtra en Español
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-64a8903d273b89c4e7396553.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="Nowsports",TNT体育终极版
 https://7pal.short.gy/TNTUltimate
 #EXTINF:-1 tvg-id="Prima.4K.ro" tvg-logo="https://i.imgur.com/TrumXXV.png" group-title="Nowsports",普里马4K体育
