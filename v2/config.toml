@@ -1,0 +1,56 @@
+#model = "z-ai/glm4.7"
+#model_provider = "nvi"
+#provider = "nvi"
+model = "gpt-5-codex"
+approval_policy = "on-request"
+
+[profiles.nv]
+model = "z-ai/glm4.7"
+model_provider = "nvi"
+
+[profiles.deep-review]
+model = "gpt-5-pro"
+model_reasoning_effort = "high"
+approval_policy = "never"
+
+[profiles.lightweight]
+model = "gpt-4.1"
+approval_policy = "untrusted"
+
+[model_providers.nvi]
+name = "NVidia"
+base_url = "https://integrate.api.nvidia.com/v1"
+env_key = "TIMGPT_API_KEY"
+#wire_api = "responses"
+model_reasoning_effort = "high"
+approval_policy = "on-request"
+
+[model_providers.proxy]
+name = "OpenAI using LLM proxy"
+base_url = "http://proxy.example.com"
+env_key = "OPENAI_API_KEY"
+
+[model_providers.ollama]
+name = "Ollama"
+base_url = "http://localhost:11434/v1"
+
+[model_providers.mistral]
+name = "Mistral"
+base_url = "https://api.mistral.ai/v1"
+env_key = "MISTRAL_API_KEY"
+
+[model_providers.azure]
+name = "Azure"
+base_url = "https://YOUR_PROJECT_NAME.openai.azure.com/openai"
+env_key = "AZURE_OPENAI_API_KEY"
+query_params = { api-version = "2025-04-01-preview" }
+wire_api = "responses"
+
+[model_providers.openai]
+name = "OpenAI"
+request_max_retries = 4
+stream_max_retries = 10
+stream_idle_timeout_ms = 300000
+
+[notice.model_migrations]
+gpt-5-codex = "gpt-5.2-codex"
