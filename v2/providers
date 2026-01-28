@@ -60,5 +60,138 @@
         "options": {}
       }
     ]
+  },
+  {
+    "name": "Antigravity",
+    "id": "timex",
+    "type": "google",
+    "api_key": "$TIMEX_API_KEY",
+    "api_endpoint": "$TIMEX_API_ENDPOINT",
+    "default_large_model_id": "gemini-3-pro-preview",
+    "default_small_model_id": "gemini-3-flash-preview",
+    "models": [
+      {
+        "id": "gemini-3-pro-preview",
+        "name": "Gemini 3 Pro (Preview)",
+        "cost_per_1m_in": 2,
+        "cost_per_1m_out": 12,
+        "cost_per_1m_in_cached": 0,
+        "cost_per_1m_out_cached": 0.2,
+        "context_window": 1048576,
+        "default_max_tokens": 64000,
+        "can_reason": true,
+        "has_reasoning_efforts": false,
+        "supports_attachments": true
+      },
+      {
+        "id": "gemini-3-flash-preview",
+        "name": "Gemini 3 Flash (Preview)",
+        "cost_per_1m_in": 0.5,
+        "cost_per_1m_out": 3,
+        "cost_per_1m_in_cached": 0,
+        "cost_per_1m_out_cached": 0.05,
+        "context_window": 1048576,
+        "default_max_tokens": 50000,
+        "can_reason": true,
+        "supports_attachments": true
+      },
+      {
+        "id": "gemini-2.5-pro",
+        "name": "Gemini 2.5 Pro",
+        "cost_per_1m_in": 1.25,
+        "cost_per_1m_out": 10,
+        "cost_per_1m_in_cached": 0,
+        "cost_per_1m_out_cached": 0.125,
+        "context_window": 1048576,
+        "default_max_tokens": 50000,
+        "can_reason": true,
+        "supports_attachments": true
+      },
+      {
+        "id": "gemini-2.5-flash",
+        "name": "Gemini 2.5 Flash",
+        "cost_per_1m_in": 0.3,
+        "cost_per_1m_out": 2.5,
+        "cost_per_1m_in_cached": 0,
+        "cost_per_1m_out_cached": 0.03,
+        "context_window": 1048576,
+        "default_max_tokens": 50000,
+        "can_reason": true,
+        "supports_attachments": true
+      },
+      {
+        "id": "gemini-3-pro-image-preview",
+        "name": "Gemini 3 Pro Image (Preview)",
+        "cost_per_1m_in": 2,
+        "cost_per_1m_out": 12,
+        "cost_per_1m_in_cached": 0,
+        "cost_per_1m_out_cached": 0.2,
+        "context_window": 1048576,
+        "default_max_tokens": 64000,
+        "can_reason": true,
+        "has_reasoning_efforts": false,
+        "supports_attachments": true
+      },
+      {
+        "id": "gpt-oss-120b-medium",
+        "name": "Gpt Oss 120b Medium",
+        "cost_per_1m_in": 4,
+        "cost_per_1m_out": 20,
+        "cost_per_1m_in_cached": 5.25,
+        "cost_per_1m_out_cached": 0.40,
+        "context_window": 1048576,
+        "default_max_tokens": 50000,
+        "can_reason": true,
+        "supports_attachments": true
+      },
+      {
+        "id": "tab_flash_lite_preview",
+        "name": "Tab Flash Lite (Preview)",
+        "cost_per_1m_in": 0.3,
+        "cost_per_1m_out": 2.5,
+        "cost_per_1m_in_cached": 0,
+        "cost_per_1m_out_cached": 0.03,
+        "context_window": 1048576,
+        "default_max_tokens": 50000,
+        "can_reason": true,
+        "supports_attachments": true
+      },
+      {
+        "id": "gemini-claude-sonnet-4-5",
+        "name": "Claude Sonnet 4.5",
+        "cost_per_1m_in": 3,
+        "cost_per_1m_out": 15,
+        "cost_per_1m_in_cached": 3.75,
+        "cost_per_1m_out_cached": 0.3,
+        "context_window": 200000,
+        "default_max_tokens": 50000,
+        "can_reason": true,
+        "supports_attachments": true
+      },
+      {
+        "id": "gemini-claude-sonnet-4-5-thinking",
+        "name": "Claude Sonnet 4.5 Thinking",
+        "cost_per_1m_in": 4,
+        "cost_per_1m_out": 20,
+        "cost_per_1m_in_cached": 5.25,
+        "cost_per_1m_out_cached": 0.40,
+        "context_window": 200000,
+        "default_max_tokens": 50000,
+        "can_reason": true,
+        "supports_attachments": true
+      },
+      {
+        "id": "gemini-claude-opus-4-5-thinking",
+        "name": "Claude Opus 4.5 Thinking",
+        "cost_per_1m_in": 5,
+        "cost_per_1m_out": 25,
+        "cost_per_1m_in_cached": 6.25,
+        "cost_per_1m_out_cached": 0.50,
+        "context_window": 200000,
+        "default_max_tokens": 50000,
+        "can_reason": true,
+        "supports_attachments": true
+      }
+    ]
   }
 ]

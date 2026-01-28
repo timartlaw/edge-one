@@ -1,6 +1,5 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  // Theme configuration
   "theme": "opencode",
   "model": "timex/gemini-claude-sonnet-4-5",
   "autoupdate": true,
@@ -9,7 +8,7 @@
       "npm": "@ai-sdk/openai-compatible",
       "name": "TimeX (local)",
       "options": {
-        "baseURL": "http://localhost:8317/v1",
+        "baseURL": "http://localhost:8317/v1"
       },
       "models": {
         "gemini-claude-sonnet-4-5": {
@@ -22,19 +21,22 @@
           "name": "Claude opus4.5 thinking"
         },
         "gpt-oss-120b-medium": {
+          "name": "Gpt oss 120b medium"
         },
         "tab_flash_lite_preview": {
+          "name": "Tab flash lite"
         },
         "gemini-2.5-flash": {
+          "name": "Gemini 2.5 flash"
         },
         "gemini-3-flash-preview": {
-          "name": "Gemini3 flash"
+          "name": "Gemini 3 flash"
         },
         "gemini-3-pro-image-preview": {
-          "name": "Gemini3 pro image"
+          "name": "Gemini 3 pro image"
         },
         "gemini-3-pro-preview": {
-          "name": "Gemini3 pro high"
+          "name": "Gemini 3 pro high"
         },
         "Glm4.7": {
           "id": "z-ai/glm4.7",
@@ -43,7 +45,7 @@
         "Minimax-m2.1": {
           "id": "minimaxai/minimax-m2.1",
           "name": "Nvidia minimax-m2.1"
-        },
+        }
       }
     },
     "openrouterx": {
@@ -54,7 +56,7 @@
       },
       "models": {
         "claude-sonnet": {
-          "id": "anthropic/claude-3.5-sonnet",
+          "id": "anthropic/claude-3.5-sonnet"
         }
       }
     },
