@@ -4,6 +4,9 @@
 model = "gpt-5-codex"
 approval_policy = "on-request"
 
+[projects.'C:\Users\11605\timtrick\CherryStudio\oc-ws']
+trust_level = "trusted"
+
 [profiles.nv]
 model = "z-ai/glm4.7"
 model_provider = "nvi"
