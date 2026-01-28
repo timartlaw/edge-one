@@ -14,7 +14,8 @@ $env:CRUSH_DISABLE_PROVIDER_AUTO_UPDATE=0
 $env:CATWALK_URL="https://gh-proxy.org/https://github.com/timartlaw/edge-one/blob/main"
 
 # CODEX
-# $env:TIMGPT_API_KEY = "YOUR_KEY"
+$env:TIMGPT_API_KEY = "YOUR_KEY"
+$env:TIMEX_API_KEY = "YOUR_KEY"
 $env:CODEX_HOME = "$pwd\.codex"
 # $env:Path += ";C:\Users\11605\timtrick\Git\bin"
 

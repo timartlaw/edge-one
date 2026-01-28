@@ -8,6 +8,10 @@ approval_policy = "on-request"
 model = "z-ai/glm4.7"
 model_provider = "nvi"
 
+[profiles.tx]
+model = "gemini-claude-sonnet-4-5"
+model_provider = "tx"
+
 [profiles.deep-review]
 model = "gpt-5-pro"
 model_reasoning_effort = "high"
@@ -22,6 +26,13 @@ name = "NVidia"
 base_url = "https://integrate.api.nvidia.com/v1"
 env_key = "TIMGPT_API_KEY"
 #wire_api = "responses"
+model_reasoning_effort = "high"
+approval_policy = "on-request"
+
+[model_providers.tx]
+name = "OpenAI using CLIProxyAPI"
+base_url = "http://localhost:8317/v1"
+env_key = "TIMEX_API_KEY"
 model_reasoning_effort = "high"
 approval_policy = "on-request"
 
