@@ -10,6 +10,8 @@ $env:OPENCODE_CONFIG = "$pwd\.opencode\opencode.json"
 # CRUSH
 $env:TIMGPT_API_ENDPOINT = "https://integrate.api.nvidia.com/v1"
 $env:TIMGPT_API_KEY = "YOUR_KEY"
+$env:TIMEX_API_ENDPOINT = "http://localhost:8317/v1"
+$env:TIMEX_API_KEY = "YOUR_KEY"
 $env:CRUSH_DISABLE_PROVIDER_AUTO_UPDATE=0
 $env:CATWALK_URL="https://gh-proxy.org/https://github.com/timartlaw/edge-one/blob/main"
 
