@@ -64,7 +64,7 @@
   {
     "name": "Antigravity",
     "id": "timex",
-    "type": "google",
+    "type": "openai-compat",
     "api_key": "$TIMEX_API_KEY",
     "api_endpoint": "$TIMEX_API_ENDPOINT",
     "default_large_model_id": "gemini-3-pro-preview",
