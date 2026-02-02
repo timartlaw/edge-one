@@ -161,3 +161,12 @@ Get-Item env:ANTHROPIC*
 # $env:CLAUDE_CODE_GIT_BASH_PATH="C:\Users\11605\timtrick\Git\bin\bash.exe"
 # # Execute the binary and pass all incoming script arguments ($args)
 # & $ClaudeBin @args
+
+# FAQ
+# 1 "skipWebFetchPreflight": true in settings.json
+# 2 .gitconfig
+# [core]
+#         editor = \"C:\\Users\\11605\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+# [alias]
+#         tree = log --all --decorate --oneline --graph
+#         lold = log --graph --pretty=format:'%C(auto)%h%d%Creset %C(cyan)(%ci)%Creset %C(green)%cn <%ce>%Creset %s'
