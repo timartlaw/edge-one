@@ -6,13 +6,14 @@ function Show-MainMenu {
     Write-Host "4. gemini-3-pro-preview" -ForegroundColor Green
     Write-Host "5. gemini-3-flash-preview" -ForegroundColor Green
     Write-Host "6. gemini-3-pro-image-preview" -ForegroundColor Green
-    Write-Host "7. gemini-2.5-pro" -ForegroundColor Green
-    Write-Host "8. gemini-2.5-flash" -ForegroundColor Green
+    Write-Host "7. gemini-2.5-flash" -ForegroundColor Green
+    Write-Host "8. gemini-2.5-flash-lite" -ForegroundColor Green
     Write-Host "9. gpt-oss-120b-medium" -ForegroundColor Green
     Write-Host "a. tab_flash_lite_preview" -ForegroundColor Green
     Write-Host "b. gemini-claude-sonnet-4-5" -ForegroundColor Green
     Write-Host "c. gemini-claude-sonnet-4-5-thinking" -ForegroundColor Green
     Write-Host "d. gemini-claude-opus-4-5-thinking" -ForegroundColor Green
+    Write-Host "e. moonshotai/kimi-k2.5" -ForegroundColor Green
     Write-Host "Q. Quit" -ForegroundColor Yellow
 
     $selection = Read-Host -Prompt "Please select an option"
@@ -39,10 +40,10 @@ function Show-MainMenu {
             $env:ANTHROPIC_MODEL = "gemini-3-pro-image-preview"
         }
         '7' {
-            $env:ANTHROPIC_MODEL = "gemini-2.5-pro"
+            $env:ANTHROPIC_MODEL = "gemini-2.5-flash"
         }
         '8' {
-            $env:ANTHROPIC_MODEL = "gemini-2.5-flash"
+            $env:ANTHROPIC_MODEL = "gemini-2.5-flash-lite"
         }
         '9' {
             $env:ANTHROPIC_MODEL = "gpt-oss-120b-medium"
@@ -58,6 +59,9 @@ function Show-MainMenu {
         }
         'd' {
             $env:ANTHROPIC_MODEL = "gemini-claude-opus-4-5-thinking"
+        }
+        'e' {
+            $env:ANTHROPIC_MODEL = "moonshotai/kimi-k2.5"
         }
         'q' {
             $env:ANTHROPIC_MODEL =
@@ -82,6 +86,7 @@ $env:ANTHROPIC_BASE_URL = "http://localhost:8317"
 $env:ANTHROPIC_DEFAULT_HAIKU_MODEL = "nvi/minimaxai/minimax-m2.1"
 $env:ANTHROPIC_DEFAULT_SONNET_MODEL = "gemini-claude-sonnet-4-5"
 $env:ANTHROPIC_DEFAULT_OPUS_MODEL = "nvi/z-ai/glm4.7"
+# $env:ANTHROPIC_THINKING_MODEL = "gemini-claude-opus-4-5-thinking"
 $env:API_TIMEOUT_MS = "3000000"
 
 # Optional: Set a separate config directory
