@@ -9,11 +9,13 @@ function Show-MainMenu {
     Write-Host "7. gemini-2.5-flash" -ForegroundColor Green
     Write-Host "8. gemini-2.5-flash-lite" -ForegroundColor Green
     Write-Host "9. gpt-oss-120b-medium" -ForegroundColor Green
-    Write-Host "a. tab_flash_lite_preview" -ForegroundColor Green
+    Write-Host "0. tab_flash_lite_preview" -ForegroundColor Green
+    Write-Host "a. tab_jump_flash_lite_preview" -ForegroundColor Green
     Write-Host "b. gemini-claude-sonnet-4-5" -ForegroundColor Green
     Write-Host "c. gemini-claude-sonnet-4-5-thinking" -ForegroundColor Green
     Write-Host "d. gemini-claude-opus-4-5-thinking" -ForegroundColor Green
-    Write-Host "e. moonshotai/kimi-k2.5" -ForegroundColor Green
+    Write-Host "e. claude-opus-4-6-thinking" -ForegroundColor Green
+    Write-Host "f. moonshotai/kimi-k2.5" -ForegroundColor Green
     Write-Host "Q. Quit" -ForegroundColor Yellow
 
     $selection = Read-Host -Prompt "Please select an option"
@@ -48,8 +50,11 @@ function Show-MainMenu {
         '9' {
             $env:ANTHROPIC_MODEL = "gpt-oss-120b-medium"
         }
-        'a' {
+        '0' {
             $env:ANTHROPIC_MODEL = "tab_flash_lite_preview"
+        }
+        'a' {
+            $env:ANTHROPIC_MODEL = "tab_jump_flash_lite_preview"
         }
         'b' {
             $env:ANTHROPIC_MODEL = "gemini-claude-sonnet-4-5"
@@ -61,6 +66,9 @@ function Show-MainMenu {
             $env:ANTHROPIC_MODEL = "gemini-claude-opus-4-5-thinking"
         }
         'e' {
+            $env:ANTHROPIC_MODEL = "claude-opus-4-6-thinking"
+        }
+        'f' {
             $env:ANTHROPIC_MODEL = "moonshotai/kimi-k2.5"
         }
         'q' {
@@ -91,8 +99,13 @@ $env:API_TIMEOUT_MS = "3000000"
 
 # Optional: Set a separate config directory
 $env:CLAUDE_CONFIG_DIR = "$pwd\.claude"
-# $env:Path += ";C:\Users\11605\.local\bin"
 $env:CLAUDE_CODE_GIT_BASH_PATH="C:\Users\11605\timtrick\Git\bin\bash.exe"
+if (Get-Command "claude" -ErrorAction SilentlyContinue) {
+    Write-Host "Claude Code is installed and available."
+} else {
+    Write-Host "Claude Command not found."
+    $env:Path += ";C:\Users\11605\.local\bin"
+}
 
 if ($args[0] -eq "v") {
     "Running in detailed mode..."
@@ -100,7 +113,7 @@ if ($args[0] -eq "v") {
     Show-MainMenu
 } elseif ($args[0] -eq "p") {
     "Running in path mode..."
-    $env:Path += ";C:\Users\11605\.local\bin"
+    $env:Path += ";" + $args[1]
 } elseif ($args[0] -eq "Silent") {
     "Running in quiet mode..."
 } else {
@@ -126,19 +139,15 @@ Get-Item env:ANTHROPIC*
 #         alias: ""
 #       - name: minimaxai/minimax-m2.1
 #         alias: ""
-#       - name: moonshotai/kimi-k2.5
-#         alias: ""
 # payload:
 #   override:
 #     - models:
-#         - name: minimaxai/minimax-m2.1
-#           protocol: openai
-#         - name: z-ai/glm4.7
-#           protocol: openai
-#         - name: moonshotai/kimi-k2.5
-#           protocol: openai
+#         - name: "minimaxai/minimax-m2.1"
+#           protocol: "openai"
+#         - name: "z-ai/glm4.7"
+#           protocol: "openai"
 #       params:
-#         reasoning_effort: high
+#         "reasoning.effort": "high"
 
 ##### %USERPROFILE%\.claude-code-router\config.json
 #   "Providers": [
