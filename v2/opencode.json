@@ -21,22 +21,19 @@
           "name": "Claude opus4.5 thinking"
         },
         "gpt-oss-120b-medium": {
-          "name": "Gpt oss 120b medium"
         },
         "tab_flash_lite_preview": {
-          "name": "Tab flash lite"
         },
         "gemini-2.5-flash": {
-          "name": "Gemini 2.5 flash"
         },
         "gemini-3-flash-preview": {
-          "name": "Gemini 3 flash"
+          "name": "Gemini3 flash"
         },
         "gemini-3-pro-image-preview": {
-          "name": "Gemini 3 pro image"
+          "name": "Gemini3 pro image"
         },
         "gemini-3-pro-preview": {
-          "name": "Gemini 3 pro high"
+          "name": "Gemini3 pro high"
         },
         "Glm4.7": {
           "id": "z-ai/glm4.7",
@@ -45,6 +42,10 @@
         "Minimax-m2.1": {
           "id": "minimaxai/minimax-m2.1",
           "name": "Nvidia minimax-m2.1"
+        },
+        "Kimi-k2.5": {
+          "id": "moonshotai/kimi-k2.5",
+          "name": "Nvidia kimi-k2.5"
         }
       }
     },
@@ -71,6 +72,30 @@
           "name": "GPT OSS 20b (16k context)"
         }
       }
+    }
+  },
+  "mcp": {
+    "mcp_everything": {
+      "type": "local",
+      "command": ["npx", "-y", "@modelcontextprotocol/server-everything"]
+    },
+    "pencil": {
+      "type": "local",
+      "command": [
+        "c:\\Users\\11605\\.vscode\\extensions\\highagency.pencildev-0.6.22\\out\\mcp-server-windows-x64.exe",
+        "--app",
+        "visual_studio_code",
+        "stdio"
+      ]
+    },
+    "filesystem": {
+      "type": "local",
+      "command": [
+        "npx",
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\11605\\timtrick\\CherryStudio\\oc-ws"
+      ]
     }
   }
 }
