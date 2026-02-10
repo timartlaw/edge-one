@@ -58,6 +58,25 @@
         "default_reasoning_effort": "medium",
         "supports_attachments": false,
         "options": {}
+      },
+      {
+        "id": "moonshotai/kimi-k2.5",
+        "name": "MoonshotAI: Kimi k2.5",
+        "cost_per_1m_in": 0.3,
+        "cost_per_1m_out": 1.2,
+        "cost_per_1m_in_cached": 0.375,
+        "cost_per_1m_out_cached": 0.03,
+        "context_window": 204800,
+        "default_max_tokens": 65536,
+        "can_reason": true,
+        "reasoning_levels": [
+          "low",
+          "medium",
+          "high"
+        ],
+        "default_reasoning_effort": "medium",
+        "supports_attachments": false,
+        "options": {}
       }
     ]
   },
@@ -96,8 +115,8 @@
         "supports_attachments": true
       },
       {
-        "id": "gemini-2.5-pro",
-        "name": "Gemini 2.5 Pro",
+        "id": "gemini-2.5-flash",
+        "name": "Gemini 2.5 Flash",
         "cost_per_1m_in": 1.25,
         "cost_per_1m_out": 10,
         "cost_per_1m_in_cached": 0,
@@ -108,8 +127,8 @@
         "supports_attachments": true
       },
       {
-        "id": "gemini-2.5-flash",
-        "name": "Gemini 2.5 Flash",
+        "id": "gemini-2.5-flash-lite",
+        "name": "Gemini 2.5 Flash Lite",
         "cost_per_1m_in": 0.3,
         "cost_per_1m_out": 2.5,
         "cost_per_1m_in_cached": 0,
@@ -157,6 +176,18 @@
         "supports_attachments": true
       },
       {
+        "id": "tab_jump_flash_lite_preview",
+        "name": "Tab Jump Flash Lite (Preview)",
+        "cost_per_1m_in": 0.3,
+        "cost_per_1m_out": 2.5,
+        "cost_per_1m_in_cached": 0,
+        "cost_per_1m_out_cached": 0.03,
+        "context_window": 1048576,
+        "default_max_tokens": 50000,
+        "can_reason": true,
+        "supports_attachments": true
+      },
+      {
         "id": "gemini-claude-sonnet-4-5",
         "name": "Claude Sonnet 4.5",
         "cost_per_1m_in": 3,
@@ -183,6 +214,18 @@
       {
         "id": "gemini-claude-opus-4-5-thinking",
         "name": "Claude Opus 4.5 Thinking",
+        "cost_per_1m_in": 5,
+        "cost_per_1m_out": 25,
+        "cost_per_1m_in_cached": 6.25,
+        "cost_per_1m_out_cached": 0.50,
+        "context_window": 200000,
+        "default_max_tokens": 50000,
+        "can_reason": true,
+        "supports_attachments": true
+      },
+      {
+        "id": "claude-opus-4-6-thinking",
+        "name": "Claude Opus 4.6 Thinking",
         "cost_per_1m_in": 5,
         "cost_per_1m_out": 25,
         "cost_per_1m_in_cached": 6.25,
