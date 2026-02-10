@@ -90,14 +90,17 @@ $env:ANTHROPIC_DEFAULT_OPUS_MODEL = "nvi/z-ai/glm4.7"
 $env:API_TIMEOUT_MS = "3000000"
 
 # Optional: Set a separate config directory
-$env:CLAUDE_CONFIG_DIR = "$pwd\.claude-nv"
-$env:Path += ";C:\Users\11605\.local\bin"
+$env:CLAUDE_CONFIG_DIR = "$pwd\.claude"
+# $env:Path += ";C:\Users\11605\.local\bin"
 $env:CLAUDE_CODE_GIT_BASH_PATH="C:\Users\11605\timtrick\Git\bin\bash.exe"
 
 if ($args[0] -eq "v") {
     "Running in detailed mode..."
     # Call the function to start the menu
     Show-MainMenu
+} elseif ($args[0] -eq "p") {
+    "Running in path mode..."
+    $env:Path += ";C:\Users\11605\.local\bin"
 } elseif ($args[0] -eq "Silent") {
     "Running in quiet mode..."
 } else {
@@ -123,15 +126,19 @@ Get-Item env:ANTHROPIC*
 #         alias: ""
 #       - name: minimaxai/minimax-m2.1
 #         alias: ""
+#       - name: moonshotai/kimi-k2.5
+#         alias: ""
 # payload:
 #   override:
 #     - models:
-#         - name: "minimaxai/minimax-m2.1"
-#           protocol: "openai"
-#         - name: "z-ai/glm4.7"
-#           protocol: "openai"
+#         - name: minimaxai/minimax-m2.1
+#           protocol: openai
+#         - name: z-ai/glm4.7
+#           protocol: openai
+#         - name: moonshotai/kimi-k2.5
+#           protocol: openai
 #       params:
-#         "reasoning.effort": "high"
+#         reasoning_effort: high
 
 ##### %USERPROFILE%\.claude-code-router\config.json
 #   "Providers": [
