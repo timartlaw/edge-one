@@ -15,7 +15,7 @@
   "mcp": {
     "pencil": {
       "type": "stdio",
-      "command": "c:\\Users\\11605\\.vscode\\extensions\\highagency.pencildev-0.6.22\\out\\mcp-server-windows-x64.exe",
+      "command": "c:\\Users\\11605\\.vscode\\extensions\\highagency.pencildev-0.6.24\\out\\mcp-server-windows-x64.exe",
       "args": [
         "--app",
         "visual_studio_code"
@@ -44,9 +44,42 @@
       "type": "sse",
       "url": "https://example.com/mcp/sse",
       "timeout": 120,
-      "disabled": false,
+      "disabled": true,
       "headers": {
         "API-Key": "$(echo $API_KEY)"
+      }
+    },
+    "stitch": {
+      "type": "http",
+      "url": "https://stitch.googleapis.com/mcp",
+      "timeout": 120,
+      "disabled": false,
+      "headers": {
+        "X-Goog-Api-Key": "$STITCH_API_KEY"
+      }
+    },
+    "figma": {
+      "type": "http",
+      "url": "https://mcp.figma.com/mcp",
+      "headers": {
+        "Authorization": "Bearer $FIGMA_API_KEY"
+      },
+      "timeout": 120,
+      "disabled": false
+    },
+    "neon": {
+      "type": "http",
+      "url": "https://mcp.neon.tech/mcp",
+      "headers": {
+        "Authorization": "Bearer $NEON_API_KEY"
+      }
+    },
+    "supabase": {
+      "type": "http",
+      "url": "https://mcp.supabase.com/mcp?project_ref=${SUPABASE_PROJECT_REF}",
+      "disabled": true,
+      "headers": {
+        "Authorization": "Bearer ${SUPABASE_ACCESS_TOKEN}"
       }
     }
   }

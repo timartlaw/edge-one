@@ -18,7 +18,11 @@ function Show-MainMenu {
     Write-Host "f. moonshotai/kimi-k2.5" -ForegroundColor Green
     Write-Host "Q. Quit" -ForegroundColor Yellow
 
-    $selection = Read-Host -Prompt "Please select an option"
+    if ($args.Count -gt 1) {
+        $selection = $args[1]
+    } else {
+        $selection = Read-Host -Prompt "Please select an option"
+    }
     switch ($selection) {
         '1' {
             Write-Host "Hostname: $(hostname)"
@@ -110,7 +114,7 @@ if (Get-Command "claude" -ErrorAction SilentlyContinue) {
 if ($args[0] -eq "v") {
     "Running in detailed mode..."
     # Call the function to start the menu
-    Show-MainMenu
+    Show-MainMenu @args
 } elseif ($args[0] -eq "p") {
     "Running in path mode..."
     $env:Path += ";" + $args[1]
@@ -191,3 +195,9 @@ Get-Item env:ANTHROPIC*
 # [alias]
 #         tree = log --all --decorate --oneline --graph
 #         lold = log --graph --pretty=format:'%C(auto)%h%d%Creset %C(cyan)(%ci)%Creset %C(green)%cn <%ce>%Creset %s'
+
+# YOUR_KEY
+$env:STITCH_API_KEY = "YOUR_KEY"
+$env:NEON_API_KEY = "YOUR_KEY"
+$env:SUPABASE_PROJECT_REF = "YOUR_KEY"
+$env:SUPABASE_ACCESS_TOKEN = "YOUR_KEY"

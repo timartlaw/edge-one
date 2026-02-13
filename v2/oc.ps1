@@ -23,3 +23,10 @@ $env:CODEX_HOME = "$pwd\.codex"
 
 # Execute the binary and pass all incoming script arguments ($args)
 # & $OpencodeBin @args
+
+# YOUR_KEY
+$env:STITCH_API_KEY = "YOUR_KEY"
+$env:NEON_API_KEY = "YOUR_KEY"
+$env:FIGMA_API_KEY = "YOUR_KEY"
+$env:SUPABASE_PROJECT_REF = "YOUR_KEY"
+$env:SUPABASE_ACCESS_TOKEN = "YOUR_KEY"
