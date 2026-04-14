@@ -162,6 +162,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="24HorasInternacional.es@SD" group-title="News",24 Horas Internacional
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
+#EXTINF:-1 tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" tvg-id="AlcarriaTV.es" tvg-country="MX" group-title="News",Alcarria TV
+http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-id="ABN.kr@SD" group-title="News",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ArirangTV.png" group-title="News",Arirang TV (1080p)
@@ -172,10 +174,14 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/origin/contribution-m1-bloomberg-quicktake/528k/index.m3u8
 #EXTINF:-1 tvg-id="Yahoo" tvg-name="Yahoo" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/360p-cc/index.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg@SD" group-title="News",CNBC Asia (720p)
+https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 #EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" group-title="News",ABC News Live
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 #EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://live.fanmingming.cn/tv/RTNews.png" group-title="News",RT News（英语国际）
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="LiveNOW_from_FOX" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/FOXLIVENOW/resized_0ad0a7ba3e5b534693911432e4b661dc0bd4563ff79dbe394605979c00ef331d_p20209211bh8aajpg_400_225.png" group-title="News",LiveNOW from FOX
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #FR
 #EXTINF:-1 group-title="FR" tvg-id="BFMTV.fr@SD",BFM TV
 https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
@@ -347,6 +353,8 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_cha
 https://dbrb49pjoymg4.cloudfront.net/10001/99951375/hls/playlist.m3u8?ads.xumo_channelId=99951375&ads._fw_ifa_type=&ads._fw_did=03fa4ac6-222c-4d21-a877-a5a14c872b64&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BlueAntMediaHauntTV&ads.csid=xumo_web_BlueAntMediaHauntTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4172&ads.xumo_contentName=BlueAntMediaHauntTV&ads.xumo_providerId=4172&ads.xumo_providerName=BlueAntMediaHauntTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951375&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-id="99951387" tvg-name="CNN Originals" tvg-logo="https://image.xumo.com/v1/channels/channel/99951387/168x168.png?type=color_onBlack" group-title="FUN",CNN Originals
 https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387&ads._fw_ifa_type=&ads._fw_did=2950cfba-ae81-44d7-9453-7bdd1520201a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDCNNOriginals&ads.csid=xumo_web_WBDCNNOriginals_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951387&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-id="99951253" tvg-name="NBC Sports NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99951253/168x168.png?type=color_onBlack" group-title="Sports",NBC Sports NOW
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253&ads.asnw=169843&ads.afid=380753925&ads.sfid=19208128&ads.csid=xumo_web_NBCUSports_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=c3c0330a-4762-41cf-9242-fadf13eba285&ads._fw_vcid2=512116:c3c0330a-4762-41cf-9242-fadf13eba285&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99951253&ads._fw_ifa_type=
 #Tor
 #EXTINF:-1 tvg-id="BBC Two" tvg-name="BBC Two" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/BBCWORLDNEWSASIA.png" group-title="Tor",BBC Two
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
@@ -426,10 +434,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/poster_20231218_175553.png" group-title="News",Euronews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
-#EXTINF:-1 tvg-id="the-first" tvg-logo="https://a.jsrdn.com/hls/22803/the-first/poster_20211027_165651.jpg" group-title="News",The First
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-first/playlist.m3u8
-#EXTINF:-1 tvg-id="oan-encore" tvg-logo="https://a.jsrdn.com/hls/22866/oan-encore/poster_20210113_005550.jpg" group-title="News",OAN Plus
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/oan-encore/playlist.m3u8
 #EXTINF:-1 tvg-id="bloomberg-television" tvg-logo="https://a.jsrdn.com/hls/22938/bloomberg-television/poster_20210205_222905.jpg" group-title="News",Bloomberg Television
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8
 #BD
@@ -518,8 +522,6 @@ https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNAOriginals.sg@SD" group-title="Tor",CNA Originals (1080p)
 https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCAsia.sg@SD" group-title="Tor",CNBC Asia (720p)
-https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 #EXTINF:-1 tvg-name="SR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/538px-SR_Fernsehen_Logo_2023.svg.png" tvg-id="SRFernsehen.de" tvg-country="DE" group-title="Tor",SR Ⓖ
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #FUN
@@ -529,6 +531,8 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky News Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" tvg-id="SkyNewsArabia.ae" tvg-country="AE" group-title="News",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="Kan11.il@SD" group-title="News",Kan 11 (1080p)
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-name="ערוץ 13" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/559px-Reshet13Logo2022.svg.png" tvg-id="Channel13.il" tvg-country="IL" group-title="News",ערוץ 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" tvg-country="DE" group-title="FUN",Das Erste Ⓖ
@@ -545,18 +549,8 @@ https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Wousta" tvg-logo="https://i5.satexpat.com/cha/ae/al-wousta-95x90.gif" tvg-id="SharjahSports.ae" tvg-country="AE" group-title="FUN",Al Wousta
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" tvg-id="AlcarriaTV.es" tvg-country="MX" group-title="FUN",Alcarria TV
-http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-name="Qatar Television" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-id="QatarTelevision.qa" tvg-country="QA" group-title="News",Qatar Television
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
-#EXTINF:-1 tvg-name="Qatar Television 2" tvg-logo="https://i.imgur.com/iWJxDUm.png" tvg-id="QatarTelevision2.qa" tvg-country="QA" group-title="News",Qatar Television 2
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
-#EXTINF:-1 tvg-id="AlArabiyaEnglish.sa@SD" group-title="News",Al Arabiya English (1080p)
-https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="AlArabiyaEnglish.sa@SD" group-title="News",Al Arabiya English (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
-#EXTINF:-1 tvg-name="Al Rayyan" tvg-logo="https://i.imgur.com/Ts3RjTV.png" tvg-id="AlRayyanTV.qa" tvg-country="QA" group-title="News",Al Rayyan
-https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" tvg-id="AlJazeeraMubasher.qa" tvg-country="QA" group-title="News",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-name="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png" tvg-id="AlSaudiya.sa" tvg-country="SA" group-title="FUN",Al Saudiya
@@ -565,6 +559,14 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 tvg-name="Al Saudiya Alaan" tvg-logo="https://i.imgur.com/sEOjApe.png" tvg-id="AlSaudiyaAlaan.sa" tvg-country="SA" group-title="FUN",Al Saudiya Alaan
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+#EXTINF:-1 tvg-id="ShelanuTV.il@SD" group-title="FUN",Shelanu TV (720p)
+https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Rayyan" tvg-logo="https://i.imgur.com/Ts3RjTV.png" tvg-id="AlRayyanTV.qa" tvg-country="QA" group-title="FUN",Al Rayyan
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="99991348" tvg-name="KOCOWA K-Drama" tvg-logo="https://image.xumo.com/v1/channels/channel/99991348/168x168.png?type=color_onBlack" group-title="FUN",KOCOWA K-Drama
+https://live-content.xumo.com/285/content/XM00TQYP072MHP/28509696/master.m3u8
+#EXTINF:-1 tvg-id="99991386" tvg-name="NEW Korean MOVIES & SERIES" tvg-logo="https://image.xumo.com/v1/channels/channel/99991386/168x168.png?type=color_onBlack" group-title="FUN",NEW Korean MOVIES & SERIES
+https://live-content.xumo.com/1825/content/XM0UTYWW1NN3CW/24441525/master.m3u8
 #EXTINF:-1 tvg-id="NBS.kr@SD" group-title="FUN",NBS Korea Agricultural Broadcasting (720p)
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="GoodTV.kr@SD" group-title="FUN",GoodTV (1080p)
