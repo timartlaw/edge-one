@@ -151,7 +151,7 @@ https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",tvg-name="NHKWorld" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NHKWorld.png" group-title="News",NHK World-Japan (1080p)
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="1TV" tvg-name="1TV" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",1TV
-https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1766568471
+https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1776416989
 #EXTINF:-1 tvg-id="360.ru@SD" group-title="News",360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="360News.ru@SD" group-title="News",360° Новости
@@ -227,52 +227,6 @@ https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
 #EXTINF:-1 group-title="FR" tvg-id="TV5MondeLatinAmerica.fr@SD",TV5Monde Latin America
 http://45.235.0.78/TV5_Monde/index.m3u8
-#Pixelsports
-#EXTINF:-1 group-title="Pixelsports" tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png",NFL NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyPYisdMY6FKYSoL0-SG5N-Q/.m3u8
-#EXTINF:-1 group-title="Pixelsports" tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyMTBZ3g-3oL3_2Yqc2UMEuI/.m3u8
-#EXTINF:-1 group-title="Pixelsports" tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png",MLB TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyDzDyUTZLQ2k4HO44SlpIZE/.m3u8
-#EXTINF:-1 group-title="Pixelsports" tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png",NHL NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyBm1tjwf410ZtSaskuuj5bo/.m3u8
-#EXTINF:-1 group-title="Pixelsports" tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png",NFL REDZONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyIjuPSfdEtru4SRomrzH_7I/.m3u8
-#EXTINF:-1 group-title="Pixelsports" tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png",ESPN USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyMqgFOqlTe9h0iTA4jf8kBw/.m3u8
-#EXTINF:-1 group-title="Pixelsports" tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png",TNT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJSO2iA8oqrCm7aKbssPYac/.m3u8
-#EXTINF:-1 group-title="Pixelsports" tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png",Marquee Sports Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyAf82ZyDSxJs2PI6C55WYnY/.m3u8
-#EXTINF:-1 group-title="Pixelsports" tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png",Fight Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyAiyN-O_xDpFlaxGznH--Jk/.m3u8
 #Samsung
 #EXTINF:-1 group-title="News" channel-id="ATBD800001VA" tvg-id="ATBD800001VA" tvg-chno="4006" tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20251125T100530SQUARE.png",CNN
 https://jmp2.uk/stvp-ATBD800001VA
@@ -432,10 +386,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/entrepreneur/master.m3u8
 #EXTINF:-1 tvg-id="cowboy-channel" tvg-logo="https://a.jsrdn.com/hls/23180/cowboy-channel/poster_20250512_172554.jpg" group-title="Sports",Cowboy Channel
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id="euronews" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/poster_20231218_175553.png" group-title="News",Euronews
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
-#EXTINF:-1 tvg-id="bloomberg-television" tvg-logo="https://a.jsrdn.com/hls/22938/bloomberg-television/poster_20210205_222905.jpg" group-title="News",Bloomberg Television
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8
 #BD
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1001f1d96d63da3ced733a843613b6e0" group-title="News",News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
@@ -529,6 +479,10 @@ https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-name="Al Arabiya Business" tvg-logo="https://i.imgur.com/eEV4r6J.jpg" tvg-id="AlArabiyaBusiness.ae" tvg-country="AE" group-title="News",Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="News",Al Arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="News",Al Arabiya alhadath (1080p)
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky News Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" tvg-id="SkyNewsArabia.ae" tvg-country="AE" group-title="News",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="Kan11.il@SD" group-title="News",Kan 11 (1080p)
@@ -563,6 +517,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Rayyan" tvg-logo="https://i.imgur.com/Ts3RjTV.png" tvg-id="AlRayyanTV.qa" tvg-country="QA" group-title="FUN",Al Rayyan
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae@SD" group-title="FUN",Al Arabiya Programs (1280p)
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="99991348" tvg-name="KOCOWA K-Drama" tvg-logo="https://image.xumo.com/v1/channels/channel/99991348/168x168.png?type=color_onBlack" group-title="FUN",KOCOWA K-Drama
 https://live-content.xumo.com/285/content/XM00TQYP072MHP/28509696/master.m3u8
 #EXTINF:-1 tvg-id="99991386" tvg-name="NEW Korean MOVIES & SERIES" tvg-logo="https://image.xumo.com/v1/channels/channel/99991386/168x168.png?type=color_onBlack" group-title="FUN",NEW Korean MOVIES & SERIES
