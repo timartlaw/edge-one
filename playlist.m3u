@@ -134,16 +134,18 @@ https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-name="Tagesschau24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png" tvg-id="tagesschau24.de" tvg-country="DE" group-title="News",Tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" group-title="News",DW English (720p)
+https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WDR 1" tvg-name="WDR 1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/aljazeera.png" group-title="News",WDR 1 TV
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 #EXTINF:-1 tvg-id="ARD.de" tvg-logo="ard.png" group-title="News",ARD
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 #EXTINF:-1 tvg-id="DasErste.de@HD" group-title="News",Das Erste HD (1080p)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-#EXTINF:-1 tvg-id="ZDF.de@HD" group-title="News",ZDF HD (720p)
-https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
-#EXTINF:-1 tvg-id="ZDFinfo.de@HD" group-title="News",ZDFinfo HD (720p)
-https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
+#EXTINF:-1 tvg-id="WELT.de@SD" group-title="News",WELT (576p)
+https://s6.hopslan.com/n24X/index.m3u8
+#EXTINF:-1 tvg-id="WeltderWunderTV.de@SD" group-title="News",Welt der Wunder TV (576p)
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:-1 tvg-id="Arte" tvg-name="Arte" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/aljazeera.png" group-title="News",Arte
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="DFM" tvg-name="DFM" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/DW.png" group-title="News",DFM
@@ -160,8 +162,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="3CatInfo.es@SD" group-title="News",3CatInfo (1080p)
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-id="24HorasInternacional.es@SD" group-title="News",24 Horas Internacional
-https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
+#EXTINF:-1 tvg-id="24Horas.es@SD" group-title="News",Canal 24 Horas (720p)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" tvg-id="AlcarriaTV.es" tvg-country="MX" group-title="News",Alcarria TV
 http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-id="ABN.kr@SD" group-title="News",ABN TV (720p)
