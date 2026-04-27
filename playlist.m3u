@@ -174,6 +174,8 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",Bloomberg Quicktake
 https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/origin/contribution-m1-bloomberg-quicktake/528k/index.m3u8
+#EXTINF:-1 tvg-id="KRBB500044GP" tvg-chno="794" tvg-name="Bloomberg Originals" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20250402T005610SQUARE.png" group-title="News",Bloomberg Originals
+https://jmp2.uk/stvp-KRBB500044GP
 #EXTINF:-1 tvg-id="Yahoo" tvg-name="Yahoo" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/360p-cc/index.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg@SD" group-title="News",CNBC Asia (720p)
