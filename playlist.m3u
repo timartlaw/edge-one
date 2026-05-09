@@ -6,14 +6,16 @@ https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?auth_key=1766246779-0-0-
 https://pullsgp.yyzb456.top/live/stream-558696_lhd.m3u8?auth_key=1763305990-0-0-7d4d541710d5ac8b9f50437825787d6b
 #EXTINF:-1 tvg-id="Deer" tvg-name="Deer" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Deer
 https://pullsgp.yyzb456.top/live/stream-606060_lhd.m3u8?auth_key=1763301731-0-0-a1bd601b5b86962710552fe7321a78ff
+#EXTINF:-1 tvg-id="Tiger" tvg-name="Deer" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Tiger
+https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8?auth_key=1778340357-0-0-ea15520e614e29e6894130467b9961a4
+#EXTINF:-1 tvg-id="Wong" tvg-name="Deer" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Wong
+https://pullsgp.yyzb456.top/live/stream-592870_lhd.m3u8?auth_key=1778339877-0-0-0ef044932093bbdf9b07f5c4b00e6d41
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports",ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.U.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-u-us.png" group-title="Sports",ESPN U US
+#EXTINF:-1 tvg-id="ESPN.U.us" tvg-name="" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png" group-title="Sports",ESPN U US
 http://41.205.93.154/ESPNU/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espnews-us.png" group-title="Sports",ESPN News US
+#EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png" group-title="Sports",ESPN News US
 http://41.205.93.154/ESPNNEWS/index.m3u8
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-title="Sports",GB : TNT SPORTS 01
-http://mains.services/live/bshorty/Zv5le07a0J/6c5b4010-afa9-4e64-921b-263217b936da.ts
 #EXTINF:-1 tvg-name="DAZN体育1" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育1.png" group-title="Sports",DAZN体育1
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-name="DAZN体育2" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育2.png" group-title="Sports",DAZN体育2
