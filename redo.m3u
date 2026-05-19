@@ -60,6 +60,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 channel-id="CABD1200008JG" tvg-id="CABD1200008JG" tvg-chno="2368" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200008JG_20260303T094657SQUARE.png" group-title="Sports",FIFA+
 https://jmp2.uk/stvp-CABD1200008JG
+#EXTINF:-1 channel-id="KR2900002NO" tvg-id="KR2900002NO" tvg-chno="811" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2900002NO_20260422T013533SQUARE.png" group-title="Sports",FIFA+
+https://jmp2.uk/stvp-KR2900002NO
 #News
 #EXTINF:-1 tvg-id="AJE" tvg-name="AJE" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/aljazeera.png" group-title="News",AJE
 https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
@@ -107,7 +109,9 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",Bloomberg Quicktake
 https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/origin/contribution-m1-bloomberg-quicktake/528k/index.m3u8
-#EXTINF:-1 tvg-id="KRBB500044GP" tvg-chno="794" tvg-name="Bloomberg Originals" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20250402T005610SQUARE.png" group-title="News",Bloomberg Originals
+#EXTINF:-1 channel-id="KRBB500039Y5" tvg-id="KRBB500039Y5" tvg-chno="793" tvg-name="Bloomberg TV+ UHD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20260422T012620SQUARE.png" group-title="News",Bloomberg TV+ UHD
+https://jmp2.uk/stvp-KRBB500039Y5
+#EXTINF:-1 channel-id="KRBB500044GP" tvg-id="KRBB500044GP" tvg-chno="794" tvg-name="Bloomberg Originals" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20260422T012617SQUARE.png" group-title="News",Bloomberg Originals
 https://jmp2.uk/stvp-KRBB500044GP
 #EXTINF:-1 tvg-id="Yahoo" tvg-name="Yahoo" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/360p-cc/index.m3u8
@@ -254,6 +258,8 @@ https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaPrograms.ae@SD" group-title="AB",Al Arabiya Programs (1280p)
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #Tor
+#EXTINF:-1 channel-id="KR3200003RR" tvg-id="KR3200003RR" tvg-chno="798" tvg-name="코난 오브라이언 쇼" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200003RR_20260422T014111SQUARE.png" group-title="Tor",코난 오브라이언 쇼
+https://jmp2.uk/stvp-KR3200003RR
 #EXTINF:-1 tvg-id="BBC Two" tvg-name="BBC Two" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/BBCWORLDNEWSASIA.png" group-title="Tor",BBC Two
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 #EXTINF:-1 tvg-id="BBC Three" tvg-name="BBC Three" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/BBCWORLDNEWSASIA.png" group-title="Tor",BBC Three
@@ -391,18 +397,6 @@ https://jmp2.uk/stvp-KRBC46000173Y
 https://jmp2.uk/stvp-KR7000044K
 #EXTINF:-1 channel-id="KRBC4000003J2" tvg-id="KRBC4000003J2" tvg-chno="673" tvg-name="MBN 뉴스" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20260422T013738SQUARE.png" group-title="KR",MBN 뉴스
 https://jmp2.uk/stvp-KRBC4000003J2
-#EXTINF:-1 channel-id="KR2200005YM" tvg-id="KR2200005YM" tvg-chno="674" tvg-name="연합뉴스경제TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2200005YM_20260422T012601SQUARE.png" group-title="KR",연합뉴스경제TV
-https://jmp2.uk/stvp-KR2200005YM
-#EXTINF:-1 channel-id="KR3500001UU" tvg-id="KR3500001UU" tvg-chno="675" tvg-name="매일경제TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3500001UU_20251029T014754SQUARE.png" group-title="KR",매일경제TV
-https://jmp2.uk/stvp-KR3500001UU
-#EXTINF:-1 channel-id="KR3600003JU" tvg-id="KR3600003JU" tvg-chno="676" tvg-name="한국경제TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600003JU_20251029T003224SQUARE.png" group-title="KR",한국경제TV
-https://jmp2.uk/stvp-KR3600003JU
-#EXTINF:-1 channel-id="KR3500002AE" tvg-id="KR3500002AE" tvg-chno="677" tvg-name="MTN 머니투데이방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3500002AE_20251106T195305SQUARE.png" group-title="KR",MTN 머니투데이방송
-https://jmp2.uk/stvp-KR3500002AE
-#EXTINF:-1 channel-id="KRBB500039Y5" tvg-id="KRBB500039Y5" tvg-chno="793" tvg-name="Bloomberg TV+ UHD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20260422T012620SQUARE.png" group-title="KR",Bloomberg TV+ UHD
-https://jmp2.uk/stvp-KRBB500039Y5
-#EXTINF:-1 channel-id="KRBB500044GP" tvg-id="KRBB500044GP" tvg-chno="794" tvg-name="Bloomberg Originals" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20260422T012617SQUARE.png" group-title="KR",Bloomberg Originals
-https://jmp2.uk/stvp-KRBB500044GP
 #EXTINF:-1 channel-id="KRBD3100006X4" tvg-id="KRBD3100006X4" tvg-chno="795" tvg-name="글로벌 뉴스 by LeadStory" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20260422T014004SQUARE.png" group-title="KR",글로벌 뉴스 by LeadStory
 https://jmp2.uk/stvp-KRBD3100006X4
 #EXTINF:-1 channel-id="KR1400009B8" tvg-id="KR1400009B8" tvg-chno="504" tvg-name="유병재" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1400009B8_20260506T053714SQUARE.png" group-title="KR",유병재
@@ -547,12 +541,8 @@ https://jmp2.uk/stvp-KRBC3200014XZ
 https://jmp2.uk/stvp-KR4500004XC
 #EXTINF:-1 channel-id="KR40000410" tvg-id="KR40000410" tvg-chno="608" tvg-name="JTBC 캠핑클럽" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR40000410_20260422T013615SQUARE.png" group-title="KR",JTBC 캠핑클럽
 https://jmp2.uk/stvp-KR40000410
-#EXTINF:-1 channel-id="KR36000040X" tvg-id="KR36000040X" tvg-chno="609" tvg-name="더라이프2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR36000040X_20260224T012110SQUARE.png" group-title="KR",더라이프2
-https://jmp2.uk/stvp-KR36000040X
 #EXTINF:-1 channel-id="KR2400001TI" tvg-id="KR2400001TI" tvg-chno="796" tvg-name="Mr. Bean" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2400001TI_20260422T013746SQUARE.png" group-title="KR",Mr. Bean
 https://jmp2.uk/stvp-KR2400001TI
-#EXTINF:-1 channel-id="KR3200003RR" tvg-id="KR3200003RR" tvg-chno="798" tvg-name="코난 오브라이언 쇼" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200003RR_20260422T014111SQUARE.png" group-title="KR",코난 오브라이언 쇼
-https://jmp2.uk/stvp-KR3200003RR
 #EXTINF:-1 channel-id="KR4400004NB" tvg-id="KR4400004NB" tvg-chno="505" tvg-name="MBC 옥탑방 고양이 (Remastered)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4400004NB_20260506T053642SQUARE.png" group-title="KR",MBC 옥탑방 고양이 (Remastered)
 https://jmp2.uk/stvp-KR4400004NB
 #EXTINF:-1 channel-id="KR44000056U" tvg-id="KR44000056U" tvg-chno="506" tvg-name="SBS 건빵선생과 별사탕 (Remastered)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000056U_20260506T053648SQUARE.png" group-title="KR",SBS 건빵선생과 별사탕 (Remastered)
@@ -631,8 +621,6 @@ https://jmp2.uk/stvp-KR10000017U
 https://jmp2.uk/stvp-KRBC3500020AF
 #EXTINF:-1 channel-id="KRBC32000200B" tvg-id="KRBC32000200B" tvg-chno="703" tvg-name="투니버스 명탐정 코난 (자막)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000200B_20260422T014116SQUARE.png" group-title="KR",투니버스 명탐정 코난 (자막)
 https://jmp2.uk/stvp-KRBC32000200B
-#EXTINF:-1 channel-id="KR2200004C1" tvg-id="KR2200004C1" tvg-chno="704" tvg-name="캐리TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2200004C1_20260422T012559SQUARE.png" group-title="KR",캐리TV
-https://jmp2.uk/stvp-KR2200004C1
 #EXTINF:-1 channel-id="KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-chno="705" tvg-name="Animax 요리왕 비룡 더 마스터" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20260422T013525SQUARE.png" group-title="KR",Animax 요리왕 비룡 더 마스터
 https://jmp2.uk/stvp-KRBC3200001VC
 #EXTINF:-1 channel-id="KRBC3200017JQ" tvg-id="KRBC3200017JQ" tvg-chno="706" tvg-name="투니버스 흔한남매의 안흔한일기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20260422T014121SQUARE.png" group-title="KR",투니버스 흔한남매의 안흔한일기
@@ -663,8 +651,6 @@ https://jmp2.uk/stvp-KRBB4200013L5
 https://jmp2.uk/stvp-KRBB4200018FT
 #EXTINF:-1 channel-id="KRBC3500018J9" tvg-id="KRBC3500018J9" tvg-chno="689" tvg-name="MBN 휴먼다큐 사노라면" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20260422T013743SQUARE.png" group-title="KR",MBN 휴먼다큐 사노라면
 https://jmp2.uk/stvp-KRBC3500018J9
-#EXTINF:-1 channel-id="KR3600006FN" tvg-id="KR3600006FN" tvg-chno="690" tvg-name="아리랑TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600006FN_20251106T195327SQUARE.png" group-title="KR",아리랑TV
-https://jmp2.uk/stvp-KR3600006FN
 #EXTINF:-1 channel-id="KRBD370000134" tvg-id="KRBD370000134" tvg-chno="792" tvg-name="TED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD370000134_20260422T013857SQUARE.png" group-title="KR",TED
 https://jmp2.uk/stvp-KRBD370000134
 #EXTINF:-1 channel-id="KRBD2200001QD" tvg-id="KRBD2200001QD" tvg-chno="761" tvg-name="우리의식탁" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20260422T014100SQUARE.png" group-title="KR",우리의식탁
@@ -673,14 +659,10 @@ https://jmp2.uk/stvp-KRBD2200001QD
 https://jmp2.uk/stvp-KRAH2201403A
 #EXTINF:-1 channel-id="KRBD44000025L" tvg-id="KRBD44000025L" tvg-chno="791" tvg-name="Fireplace 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20260422T013535SQUARE.png" group-title="KR",Fireplace 4K
 https://jmp2.uk/stvp-KRBD44000025L
-#EXTINF:-1 channel-id="KR2900002NO" tvg-id="KR2900002NO" tvg-chno="811" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2900002NO_20260422T013533SQUARE.png" group-title="KR",FIFA+
-https://jmp2.uk/stvp-KR2900002NO
 #EXTINF:-1 channel-id="KRBD3100007WB" tvg-id="KRBD3100007WB" tvg-chno="812" tvg-name="PGA Tour" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20260422T013751SQUARE.png" group-title="KR",PGA Tour
 https://jmp2.uk/stvp-KRBD3100007WB
 #EXTINF:-1 channel-id="KRBC3200005SH" tvg-id="KRBC3200005SH" tvg-chno="813" tvg-name="OGN 스타리그" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20260422T013748SQUARE.png" group-title="KR",OGN 스타리그
 https://jmp2.uk/stvp-KRBC3200005SH
-#EXTINF:-1 channel-id="KR36000056R" tvg-id="KR36000056R" tvg-chno="814" tvg-name="K바둑" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR36000056R_20251106T195254SQUARE.png" group-title="KR",K바둑
-https://jmp2.uk/stvp-KR36000056R
 #EXTINF:-1 channel-id="KRBB5000364M" tvg-id="KRBB5000364M" tvg-chno="815" tvg-name="초록뱀미디어 K-STAR 골프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20260422T014108SQUARE.png" group-title="KR",초록뱀미디어 K-STAR 골프
 https://jmp2.uk/stvp-KRBB5000364M
 #EXTINF:-1 channel-id="KRBC3200011N3" tvg-id="KRBC3200011N3" tvg-chno="816" tvg-name="World Billiards TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200011N3_20260422T013915SQUARE.png" group-title="KR",World Billiards TV
