@@ -1,0 +1,813 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#Sports
+#EXTINF:-1 tvg-id="Shin" tvg-name="Shin" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Shin
+https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?auth_key=1766246779-0-0-28fef51b7f0c9bad3dfac9520d8eb8f4
+#EXTINF:-1 tvg-id="Beck" tvg-name="Beck" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Beck
+https://pullsgp.yyzb456.top/live/stream-558696_lhd.m3u8?auth_key=1763305990-0-0-7d4d541710d5ac8b9f50437825787d6b
+#EXTINF:-1 tvg-id="Deer" tvg-name="Deer" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Deer
+https://pullsgp.yyzb456.top/live/stream-606060_lhd.m3u8?auth_key=1763301731-0-0-a1bd601b5b86962710552fe7321a78ff
+#EXTINF:-1 tvg-id="Tiger" tvg-name="Deer" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Tiger
+https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8?auth_key=1778340357-0-0-ea15520e614e29e6894130467b9961a4
+#EXTINF:-1 tvg-id="Wong" tvg-name="Deer" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Wong
+https://pullsgp.yyzb456.top/live/stream-592870_lhd.m3u8?auth_key=1778339877-0-0-0ef044932093bbdf9b07f5c4b00e6d41
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.U.us" tvg-name="" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png" group-title="Sports",ESPN U US
+http://41.205.93.154/ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png" group-title="Sports",ESPN News US
+http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1 tvg-id="FOX.Sports" tvg-name="FOX Sports" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-us.png" group-title="Sports",FOX Sports
+https://jmp2.uk/stvp-US2700001QY
+#EXTINF:-1 tvg-id="99951253" tvg-name="NBC Sports NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99951253/168x168.png?type=color_onBlack" group-title="Sports",NBC Sports NOW
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253&ads.asnw=169843&ads.afid=380753925&ads.sfid=19208128&ads.csid=xumo_web_NBCUSports_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=c3c0330a-4762-41cf-9242-fadf13eba285&ads._fw_vcid2=512116:c3c0330a-4762-41cf-9242-fadf13eba285&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99951253&ads._fw_ifa_type=
+#EXTINF:-1 tvg-name="DAZN体育1" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育1.png" group-title="Sports",DAZN体育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-name="DAZN体育2" tvg-logo="https://live.fanmingming.cn/tv/DAZN体育2.png" group-title="Sports",DAZN体育2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1  tvg-name="Bein Sports Xtra" tvg-id="413152" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="Sports",Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TraceSportStars.fr@HD",Trace Sports Stars (1080p)
+https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="WorldPokerTour.us@US",World Poker Tour (720p)
+https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="",Ace TV
+https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="",America's Boating Channel
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/manifest.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="",Billiards+
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="",Chrono
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d375ebca-9cd0-475e-ad4d-0cde6634de9c/manifest.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="",Chukker
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3bd726a3-0d30-491d-b5e7-e1afb6e02112/manifest.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="",Fight TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="",Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="",Homerun TV
+https://streams2.sofast.tv/WiseM3U8_29/sofast/cleanhls/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="",Hoop TV
+https://streams2.sofast.tv/WiseM3U8_28/sofast/cleanhls/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="",Hunt Fish TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="",ITSF
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20a0ac30-d157-4400-8f64-3c52b37c645c/manifest.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="",Xtrem Sports
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+#EXTINF:-1 tvg-id="bein-sports-xtra-en-espanol" tvg-logo="https://a.jsrdn.com/hls/23038/bein-sports-xtra-en-espanol/poster_20241002_231157.png" group-title="Sports",beIN SPORTS Xtra en Español
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 tvg-id="cowboy-channel" tvg-logo="https://a.jsrdn.com/hls/23180/cowboy-channel/poster_20250512_172554.jpg" group-title="Sports",Cowboy Channel
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+#EXTINF:-1 channel-id="CABD1200008JG" tvg-id="CABD1200008JG" tvg-chno="2368" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200008JG_20260303T094657SQUARE.png" group-title="Sports",FIFA+
+https://jmp2.uk/stvp-CABD1200008JG
+#News
+#EXTINF:-1 tvg-id="AJE" tvg-name="AJE" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/aljazeera.png" group-title="News",AJE
+https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
+#EXTINF:-1 tvg-id="TRT" tvg-name="TRT" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/TRT-World.png" group-title="News",TRT
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png" tvg-id="GBNews.uk" tvg-country="GB" group-title="News",GB News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/BBCWORLDNEWSASIA.png" group-title="News",BBC
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
+#EXTINF:-1 tvg-id="BBC News EU" tvg-name="BBC News EU" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/BBCWORLDNEWSASIA.png" group-title="News",BBC News EU
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="99951223" tvg-name="Sky News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951223/168x168.png?type=color_onBlack",Sky News
+https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223&ads._fw_ifa_type=&ads._fw_did=06013627-bd18-464c-8d5e-89809dd82853&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SkyNews&ads.csid=xumo_web_SkyNews_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3455&ads.xumo_contentName=SkyNews&ads.xumo_providerId=3455&ads.xumo_providerName=SkyNews&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951223&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-name="Sky News Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" tvg-id="SkyNewsArabia.ae" tvg-country="AE" group-title="News",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="FR24FR" tvg-name="FR24FR" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/aljazeera.png" group-title="News",FR24FR
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-name="Tagesschau24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png" tvg-id="tagesschau24.de" tvg-country="DE" group-title="News",Tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" group-title="News",DW English (720p)
+https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1TV" tvg-name="1TV" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",1TV
+https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1776416989
+#EXTINF:-1 tvg-id="360.ru@SD" group-title="News",360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="360News.ru@SD" group-title="News",360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD" group-title="News",Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="3CatInfo.es@SD" group-title="News",3CatInfo (1080p)
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="24Horas.es@SD" group-title="News",Canal 24 Horas (720p)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" tvg-id="AlcarriaTV.es" tvg-country="MX" group-title="News",Alcarria TV
+http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",tvg-name="NHKWorld" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NHKWorld.png" group-title="News",NHK World-Japan (1080p)
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="ABN.kr@SD" group-title="News",ABN TV (720p)
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ArirangTV.png" group-title="News",Arirang TV (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ArirangTV.png" group-title="News",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",Bloomberg Quicktake
+https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/origin/contribution-m1-bloomberg-quicktake/528k/index.m3u8
+#EXTINF:-1 tvg-id="KRBB500044GP" tvg-chno="794" tvg-name="Bloomberg Originals" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20250402T005610SQUARE.png" group-title="News",Bloomberg Originals
+https://jmp2.uk/stvp-KRBB500044GP
+#EXTINF:-1 tvg-id="Yahoo" tvg-name="Yahoo" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="News",Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/360p-cc/index.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg@SD" group-title="News",CNBC Asia (720p)
+https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
+#EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://live.fanmingming.cn/tv/RTNews.png" group-title="News",RT News（英语国际）
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="LiveNOW_from_FOX" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/FOXLIVENOW/resized_0ad0a7ba3e5b534693911432e4b661dc0bd4563ff79dbe394605979c00ef331d_p20209211bh8aajpg_400_225.png" group-title="News",LiveNOW from FOX
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
+#EXTINF:-1 group-title="News" channel-id="ATBD800001VA" tvg-id="ATBD800001VA" tvg-chno="4006" tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20251125T100530SQUARE.png",CNN
+https://jmp2.uk/stvp-ATBD800001VA
+#EXTINF:-1 group-title="News" channel-id="ATBD190000101" tvg-id="ATBD190000101" tvg-chno="4557" tvg-name="CNN Headlines" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD190000101_20251209T003953SQUARE.png",CNN Headlines
+https://jmp2.uk/stvp-ATBD190000101
+#EXTINF:-1 group-title="News" tvg-id="99991247" tvg-name="NBC News NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99991247/168x168.png?type=color_onBlack",NBC News NOW
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991247/hls/master.m3u8?ads.xumo_channelId=99991247&ads.asnw=169843&ads.afid=137704898&ads.sfid=16772607&ads.csid=xumo_web_NBCNewsNOW_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=f731f9c9-1c7d-4003-8365-a7ef647d178d&ads._fw_vcid2=512116:f731f9c9-1c7d-4003-8365-a7ef647d178d&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.channelId=99991247&ads._fw_ifa_type=
+#EXTINF:-1 group-title="News" tvg-id="99951517" tvg-name="ABC News Live" tvg-logo="https://image.xumo.com/v1/channels/channel/99951517/168x168.png?type=color_onBlack",ABC News Live
+https://dbrb49pjoymg4.cloudfront.net/10001/99951517/hls/master.m3u8?ads.xumo_channelId=99951517&ads.xumo_streamId=99951517&ads.channelId=99951517&ads.channelName=ABC_us&ads.caid=ABC&ads.csid=xumo_web_ABC_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=58&ads.xumo_contentName=ABC&ads.xumo_providerId=58&ads.xumo_providerName=ABC&ads._fw_ifa_type=&ads._fw_did=15a11de3-253c-415c-842e-571cd5d68911&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
+#EXTINF:-1 group-title="News" tvg-id="99991245" tvg-name="TODAY All Day" tvg-logo="https://image.xumo.com/v1/channels/channel/99991245/168x168.png?type=color_onBlack",TODAY All Day
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8?ads.xumo_channelId=99991245&ads.asnw=169843&ads.afid=137705821&ads.sfid=16772608&ads.csid=xumo_web_nbctoday_ssai_cro&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=861a43ff-2702-4a61-a9a2-10d56309bb12&ads._fw_vcid2=512116:861a43ff-2702-4a61-a9a2-10d56309bb12&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=179&ads.xumo_contentName=NBCToday&ads.xumo_providerId=179&ads.xumo_providerName=NBCToday&ads.channelId=99991245&ads._fw_ifa_type=
+#EXTINF:-1 group-title="News" tvg-id="99951197" tvg-name="Reuters 60" tvg-logo="https://image.xumo.com/v1/channels/channel/99951197/168x168.png?type=color_onBlack",Reuters 60
+https://dbrb49pjoymg4.cloudfront.net/10001/99951197/hls/playlist.m3u8?ads.xumo_channelId=99951197&ads._fw_ifa_type=&ads._fw_did=a97ac4b7-35ef-4ad7-a701-98281210f648&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ReutersNow&ads.csid=xumo_web_ReutersNow_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3850&ads.xumo_contentName=ReutersNow&ads.xumo_providerId=3850&ads.xumo_providerName=ReutersNow&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951197&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 group-title="News" tvg-id="99991194" tvg-name="Newsmax2" tvg-logo="https://image.xumo.com/v1/channels/channel/99991194/168x168.png?type=color_onBlack",Newsmax2
+https://dbrb49pjoymg4.cloudfront.net/10001/99991194/hls/index.m3u8?ads.xumo_channelId=99991194&ads._fw_ifa_type=&ads._fw_did=277e8295-8dba-4c0b-9e41-816a7e9c6f6f&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=Newsmax&ads.csid=xumo_web_Newsmax_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=141&ads.xumo_contentName=Newsmax&ads.xumo_providerId=141&ads.xumo_providerName=Newsmax&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991194&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 group-title="News" tvg-id="99951337" tvg-name="Spectrum News+" tvg-logo="https://image.xumo.com/v1/channels/channel/99951337/168x168.png?type=color_onBlack",Spectrum News+
+https://dbrb49pjoymg4.cloudfront.net/10001/99951337/hls/playlist.m3u8?ads.xumo_channelId=99951337&ads._fw_ifa_type=&ads._fw_did=9cc15428-e23d-4a76-9855-41d5635e162f&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SpectrumNewsPlus&ads.csid=xumo_web_SpectrumNewsPlus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4087&ads.xumo_contentName=SpectrumNewsPlus&ads.xumo_providerId=4087&ads.xumo_providerName=SpectrumNewsPlus&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951337&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 group-title="News" tvg-id="99991694" tvg-name="Fox Weather" tvg-logo="https://image.xumo.com/v1/channels/channel/99991694/168x168.png?type=color_onBlack",Fox Weather
+https://dbrb49pjoymg4.cloudfront.net/10001/99991694/hls/playlist.m3u8?ads.xumo_channelId=99991694&ads._fw_ifa_type=&ads._fw_did=a0c042f5-7e40-4230-bc10-1c4eb3134f2d&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=516429&ads.afid=436342382&ads.caid=FoxWeather&ads.csid=xumo_web_FoxWeather_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3440&ads.xumo_contentName=FoxWeather&ads.xumo_providerId=3440&ads.xumo_providerName=FoxWeather&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991694&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1001f1d96d63da3ced733a843613b6e0" group-title="News",News Nation
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/671cfb22f8d0362ae01403b6e748f2e2" group-title="News",Wion
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://i.imgur.com/QjJYohG.png" tvg-id="NDTVIndia.in" tvg-country="IN" group-title="News",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-name="Al Arabiya Business" tvg-logo="https://i.imgur.com/eEV4r6J.jpg" tvg-id="AlArabiyaBusiness.ae" tvg-country="AE" group-title="News",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="News",Al Arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="News",Al Arabiya alhadath (1080p)
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kan11.il@SD" group-title="News",Kan 11 (1080p)
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="ערוץ 13" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/559px-Reshet13Logo2022.svg.png" tvg-id="Channel13.il" tvg-country="IL" group-title="News",ערוץ 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" tvg-id="AlJazeeraMubasher.qa" tvg-country="QA" group-title="News",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#FR
+#EXTINF:-1 group-title="FR" tvg-id="BFMTV.fr@SD",BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="FR" tvg-id="BFMBusiness.fr@SD",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="FR" tvg-id="BFMBusiness.fr1@SD",BFM Business 1
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="FR" tvg-id="BFM2.fr@HD",BFM2
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 group-title="FR" tvg-id="BFMTechCo.fr@SD",BFM Tech & Co (1080p)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="FR" tvg-id="BFMVar.fr@SD",BFM Toulon Var (1080p)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 group-title="FR" tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (720p)
+https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 group-title="FR" tvg-id="20MinutesTV.fr@SD",20 Minutes TV (1080p)
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 group-title="FR" tvg-id="EuronewsEnglish.fr@HD",Euronews English HD
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 group-title="FR" tvg-id="France24.fr@French",France 24
+https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
+#EXTINF:-1 group-title="FR" tvg-id="France24.fr@French",France 24
+https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
+#EXTINF:-1 group-title="FR" tvg-id="France24.fr@English",France 24 English (1080p)
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="FR" tvg-id="France24.fr@English",France 24 English (1080p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#FUN
+#EXTINF:-1 tvg-id="99951387" tvg-name="CNN Originals" tvg-logo="https://image.xumo.com/v1/channels/channel/99951387/168x168.png?type=color_onBlack" group-title="FUN",CNN Originals
+https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387&ads._fw_ifa_type=&ads._fw_did=2950cfba-ae81-44d7-9453-7bdd1520201a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDCNNOriginals&ads.csid=xumo_web_WBDCNNOriginals_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951387&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 group-title="FUN" tvg-id="",Automotion
+https://streams2.sofast.tv/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/master.m3u8
+#EXTINF:-1 group-title="FUN" tvg-id="FashionTVParisLOriginal.fr@SD",FashionTV Paris L'Original (1080p)
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 tvg-name="Digital Fashion" group-title="FUN",Digital Fashion
+http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be-us" tvg-id="5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be" tvg-chno="" tvg-name="FashionTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="FUN",FashionTV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be.m3u8
+#EXTINF:-1 tvg-id="FashionTV.au" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/fashion-tv-int.png" group-title="FUN",Fashion TV
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-title="FUN",GB : TNT SPORTS 01
+http://mains.services/live/bshorty/Zv5le07a0J/6c5b4010-afa9-4e64-921b-263217b936da.ts
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-title="FUN",GB : TNT SPORTS 02
+http://mains.services/live/bshorty/Zv5le07a0J/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.ts
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="GB : TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-title="FUN",GB : TNT SPORTS 03
+http://mains.services/live/bshorty/Zv5le07a0J/3487f1f4-771e-4c8c-aa7c-80945800c7d9.ts
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="GB : TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-title="FUN",GB : TNT SPORTS 04
+http://mains.services/live/bshorty/Zv5le07a0J/26a00017-1496-468f-8693-93df9e1b846f.ts
+#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="GB : TNT SPORTS 05" tvg-logo="http://145.239.7.84/logos/TNTSports5_Logo_White_RGB_Logo.png" group-title="FUN",GB : TNT SPORTS 05
+http://mains.services/live/bshorty/Zv5le07a0J/92614ec7-2113-4151-bc29-3a23ade80cc7.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="FUN",SPORTS : ASTRO SUPERSPORT 1
+http://mains.services/live/bshorty/Zv5le07a0J/908d1263-42e6-4d4d-becb-ff4c3f2a0e2d.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="FUN",SPORTS : ASTRO SUPERSPORT 2
+http://mains.services/live/bshorty/Zv5le07a0J/789d04b3-af43-4185-a849-a4cbcd123660.ts
+#DE
+#EXTINF:-1 tvg-id="WELT.de@SD" group-title="DE",WELT (576p)
+https://s6.hopslan.com/n24X/index.m3u8
+#EXTINF:-1 tvg-id="WeltderWunderTV.de@SD" group-title="DE",Welt der Wunder TV (576p)
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 tvg-id="WDR 1" tvg-name="WDR 1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/aljazeera.png" group-title="DE",WDR 1 TV
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 tvg-id="ARD.de" tvg-logo="ard.png" group-title="DE",ARD
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:-1 tvg-id="DasErste.de@HD" group-title="DE",Das Erste HD (1080p)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="Arte" tvg-name="Arte" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/aljazeera.png" group-title="DE",Arte
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="DFM" tvg-name="DFM" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/DW.png" group-title="DE",DFM
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" tvg-country="DE" group-title="DE",Das Erste Ⓖ
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="BR Nord Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/768px-Logo_BR_Fernsehen_2021.svg.png" tvg-id="BRFernsehenNord.de" tvg-country="DE" group-title="DE",BR Nord Ⓖ
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="HR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/640px-HR-Fernsehen_Logo_2023.svg.png" tvg-id="HRFernsehen.de" tvg-country="DE" group-title="DE",HR Ⓖ
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+#EXTINF:-1 tvg-name="WDR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/640px-Wdr_fernsehen_logo_2016.svg.png" tvg-id="WDR.de" tvg-country="DE" group-title="DE",WDR Ⓖ
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 tvg-name="NDR International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenInternational.de" tvg-country="DE" group-title="DE",NDR International
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 tvg-name="SR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/538px-SR_Fernsehen_Logo_2023.svg.png" tvg-id="SRFernsehen.de" tvg-country="DE" group-title="DE",SR Ⓖ
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 group-title="DE" channel-id="ATBC3900001W3" tvg-id="ATBC3900001W3" tvg-chno="4352" tvg-name="The Wicked Tuna Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900001W3_20250107T022235SQUARE.png",The Wicked Tuna Channel
+https://jmp2.uk/stvp-ATBC3900001W3
+#AB
+#EXTINF:-1 tvg-name="Sharjah TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sharjah-tv-ae.png" tvg-id="SharjahTV.ae" tvg-country="AE" group-title="AB",Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Wousta" tvg-logo="https://i5.satexpat.com/cha/ae/al-wousta-95x90.gif" tvg-id="SharjahSports.ae" tvg-country="AE" group-title="AB",Al Wousta
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png" tvg-id="AlSaudiya.sa" tvg-country="SA" group-title="AB",Al Saudiya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1 tvg-name="SBC Saudi Arabia" tvg-logo="https://i.imgur.com/9JSQglj.png" tvg-id="SBC.sa" tvg-country="SA" group-title="AB",SBC Saudi Arabia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+#EXTINF:-1 tvg-name="Al Saudiya Alaan" tvg-logo="https://i.imgur.com/sEOjApe.png" tvg-id="AlSaudiyaAlaan.sa" tvg-country="SA" group-title="AB",Al Saudiya Alaan
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+#EXTINF:-1 tvg-id="ShelanuTV.il@SD" group-title="AB",Shelanu TV (720p)
+https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Rayyan" tvg-logo="https://i.imgur.com/Ts3RjTV.png" tvg-id="AlRayyanTV.qa" tvg-country="QA" group-title="AB",Al Rayyan
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae@SD" group-title="AB",Al Arabiya Programs (1280p)
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+#Tor
+#EXTINF:-1 tvg-id="BBC Two" tvg-name="BBC Two" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/BBCWORLDNEWSASIA.png" group-title="Tor",BBC Two
+https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+#EXTINF:-1 tvg-id="BBC Three" tvg-name="BBC Three" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/BBCWORLDNEWSASIA.png" group-title="Tor",BBC Three
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+#EXTINF:-1 tvg-id="BBC Four" tvg-name="BBC Four" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/BBCWORLDNEWSASIA.png" group-title="Tor",BBC Four
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/BBCEarth.png" group-title="Tor",BBC Earth
+https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" group-title="Tor",ABC News Live
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+#EXTINF:-1 group-title="Tor" tvg-id="",Horror TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
+#EXTINF:-1 group-title="Tor" tvg-id="",4K Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1 group-title="Tor" tvg-id="",Bang Bang TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
+#EXTINF:-1 group-title="Tor" tvg-id="",Best Action TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
+#EXTINF:-1 group-title="Tor" tvg-id="",Best Drama TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8
+#EXTINF:-1 group-title="Tor" tvg-id="",Best Thriller TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
+#EXTINF:-1 group-title="Tor" tvg-id="",Cartoon Classics
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+#EXTINF:-1 group-title="Tor" tvg-id="",Colour Blind
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8
+#EXTINF:-1 group-title="Tor" tvg-id="",Comedy Tadka
+https://streams2.sofast.tv/WiseM3U8_27/sofast/cleanhls/master.m3u8
+#EXTINF:-1 group-title="Tor" tvg-id="",Cowboy Movie Channel
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
+#EXTINF:-1 group-title="Tor" tvg-id="",HeartFelt TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/74c455d4-625a-448a-8ba7-d086e6462245/manifest.m3u8
+#EXTINF:-1 group-title="Tor" tvg-id="",Heritage Tourism
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cff3309e-ded1-40dd-a6dc-e3a6d0a92d72/manifest.m3u8
+#EXTINF:-1 group-title="Tor" tvg-id="",Heritage+
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e4523706-f2a8-4b0f-b081-40fe59a46f81/manifest.m3u8
+#EXTINF:-1 group-title="Tor" tvg-id="",Mama Benz TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65f99e10-8d57-460a-a6be-731d90cfe7b1/manifest.m3u8
+#EXTINF:-1 group-title="Tor" tvg-id="",Unchained TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6fe3169-15ec-4f33-b16c-c9fc37853d61/manifest.m3u8
+#EXTINF:-1 tvg-id="entrepreneur" tvg-logo="https://a.jsrdn.com/hls/22851/entrepreneur/poster_20240521_223037.jpg" group-title="Tor",Entrepreneur
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/entrepreneur/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Tor",Vogue Europe
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883060
+#EXTINF:-1 tvg-id="" group-title="Tor",BBC Top Gear Germany (1080p)
+https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Tor",BBC Top Gear France (1080p)
+https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Tor",Travelxp France (720p)
+https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" group-title="Tor",CNA Originals (1080p)
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" group-title="Tor",CNA Originals (1080p)
+https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8
+#QVC
+#EXTINF:-1 tvg-id="QVC" tvg-name="QVC" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="QVC",QVC TV
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-id="Shop CH" tvg-name="Shop CH" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="QVC",Shop CH
+https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
+#EXTINF:-1 tvg-name="QVC UK Ⓢ" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-id="QVCUK.uk" tvg-country="GB" group-title="QVC",QVC UK Ⓢ
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
+#EXTINF:-1 tvg-name="TJC" tvg-logo="https://i.imgur.com/fk5rEje.png" tvg-id="TJC.uk" tvg-country="GB" group-title="QVC",TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:-1 tvg-name="QVC Beauty Ⓢ" tvg-logo="https://i.imgur.com/ZBHtqk1.png" tvg-id="QVCBeautyUK.uk" tvg-country="GB" group-title="QVC",QVC Beauty Ⓢ
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/3/3.m3u8
+#EXTINF:-1 tvg-name="QVC Extra Ⓢ" tvg-logo="https://i.imgur.com/TIe5T9Z.png" tvg-id="QVCExtraUK.uk" tvg-country="GB" group-title="QVC",QVC Extra Ⓢ
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/3/3.m3u8
+#EXTINF:-1 tvg-name="QVC Style Ⓢ" tvg-logo="https://i.imgur.com/6HZlLL3.png" tvg-id="QVCStyleUK.uk" tvg-country="GB" group-title="QVC",QVC Style Ⓢ
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/3/3.m3u8
+#EXTINF:-1 tvg-id="GongyoungHomeShopping.kr@SD" group-title="QVC",Gongyoung Shopping (720p)
+https://etv.publichs.com/live5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LotteHomeShopping.kr@SD" group-title="QVC",Lotte Home Shopping (720p)
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+#EXTINF:-1 tvg-id="LotteOneTV.kr@SD" group-title="QVC",Lotte OneTV (720p)
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+#EXTINF:-1 tvg-id="ShoppingNT.kr@SD" group-title="QVC",Shopping NT (720p)
+https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1 tvg-id="WShopping.kr@SD" group-title="QVC",W Shopping (720p)
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+#MUSIC
+#EXTINF:-1 tvg-name="Now 70s" tvg-logo="https://i.imgur.com/qiCCX5X.png" tvg-id="Now70s.uk" tvg-country="GB" group-title="MUSIC",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Now 80s" tvg-logo="https://i.imgur.com/8paz37m.png" tvg-id="Now80s.uk" tvg-country="GB" group-title="MUSIC",Now 80s
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Now Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" tvg-id="NowRock.uk" tvg-country="GB" group-title="MUSIC",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" tvg-country="DE" group-title="MUSIC",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-name="DELUXE MUSIC RAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Deluxe_Rap_Logo_2023.svg/666px-Deluxe_Rap_Logo_2023.svg.png" tvg-id="DeLuxeMusicRap.de" tvg-country="DE" group-title="MUSIC",DELUXE MUSIC RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="" group-title="MUSIC",Vevo '90s & '00s Italy (1080p)
+https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="MUSIC",Vevo Pop Italy (1080p)
+https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="MUSIC",Vevo Pop Germany (1080p)
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="MUSIC",Vevo Schlager Pop (1080p)
+https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoLatino.us@SD" group-title="MUSIC",Vevo Latino (1080p)
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="MUSIC",Vevo Pop Spain (1080p)
+https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="MUSIC",Vevo Hip-Hop et RnB (1080p)
+https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoPop.us@SD" group-title="MUSIC",Vevo Pop (1080p)
+https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-id="TraceLatina.fr@SD",Trace Latina (720p)
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-id="TraceUrban.fr@SD",Trace Urban (720p)
+https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-id="music_japan_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png", Music Japan TV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#KR
+#EXTINF:-1 channel-id="KR3700002JT" tvg-id="KR3700002JT" tvg-chno="529" tvg-name="TV조선" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3700002JT_20260422T012502SQUARE.png" group-title="KR",TV조선
+https://jmp2.uk/stvp-KR3700002JT
+#EXTINF:-1 channel-id="KR22000066Q" tvg-id="KR22000066Q" tvg-chno="530" tvg-name="MBN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR22000066Q_20260422T012604SQUARE.png" group-title="KR",MBN
+https://jmp2.uk/stvp-KR22000066Q
+#EXTINF:-1 channel-id="KR3600002ZY" tvg-id="KR3600002ZY" tvg-chno="538" tvg-name="JTBC4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600002ZY_20251029T003203SQUARE.png" group-title="KR",JTBC4
+https://jmp2.uk/stvp-KR3600002ZY
+#EXTINF:-1 channel-id="KR2200003VB" tvg-id="KR2200003VB" tvg-chno="539" tvg-name="JTBC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2200003VB_20260422T012557SQUARE.png" group-title="KR",JTBC
+https://jmp2.uk/stvp-KR2200003VB
+#EXTINF:-1 channel-id="KR3600001J9" tvg-id="KR3600001J9" tvg-chno="540" tvg-name="JTBC2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600001J9_20251029T003200SQUARE.png" group-title="KR",JTBC2
+https://jmp2.uk/stvp-KR3600001J9
+#EXTINF:-1 channel-id="KRBD2400001XD" tvg-id="KRBD2400001XD" tvg-chno="501" tvg-name="YTN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20260422T013918SQUARE.png" group-title="KR",YTN
+https://jmp2.uk/stvp-KRBD2400001XD
+#EXTINF:-1 channel-id="KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-chno="502" tvg-name="연합뉴스TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20260422T014054SQUARE.png" group-title="KR",연합뉴스TV
+https://jmp2.uk/stvp-KRBD1400001ED
+#EXTINF:-1 channel-id="KR5100001TH" tvg-id="KR5100001TH" tvg-chno="526" tvg-name="KBS 뉴스24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR5100001TH_20260422T012535SQUARE.png" group-title="KR",KBS 뉴스24
+https://jmp2.uk/stvp-KR5100001TH
+#EXTINF:-1 channel-id="KR4500008DI" tvg-id="KR4500008DI" tvg-chno="527" tvg-name="SBS No.1 뉴스라이브" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500008DI_20260422T012523SQUARE.png" group-title="KR",SBS No.1 뉴스라이브
+https://jmp2.uk/stvp-KR4500008DI
+#EXTINF:-1 channel-id="KRBC46000173Y" tvg-id="KRBC46000173Y" tvg-chno="671" tvg-name="JTBC 뉴스" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20260422T013552SQUARE.png" group-title="KR",JTBC 뉴스
+https://jmp2.uk/stvp-KRBC46000173Y
+#EXTINF:-1 channel-id="KR7000044K" tvg-id="KR7000044K" tvg-chno="672" tvg-name="서울경제TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000044K_20260422T014043SQUARE.png" group-title="KR",서울경제TV
+https://jmp2.uk/stvp-KR7000044K
+#EXTINF:-1 channel-id="KRBC4000003J2" tvg-id="KRBC4000003J2" tvg-chno="673" tvg-name="MBN 뉴스" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20260422T013738SQUARE.png" group-title="KR",MBN 뉴스
+https://jmp2.uk/stvp-KRBC4000003J2
+#EXTINF:-1 channel-id="KR2200005YM" tvg-id="KR2200005YM" tvg-chno="674" tvg-name="연합뉴스경제TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2200005YM_20260422T012601SQUARE.png" group-title="KR",연합뉴스경제TV
+https://jmp2.uk/stvp-KR2200005YM
+#EXTINF:-1 channel-id="KR3500001UU" tvg-id="KR3500001UU" tvg-chno="675" tvg-name="매일경제TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3500001UU_20251029T014754SQUARE.png" group-title="KR",매일경제TV
+https://jmp2.uk/stvp-KR3500001UU
+#EXTINF:-1 channel-id="KR3600003JU" tvg-id="KR3600003JU" tvg-chno="676" tvg-name="한국경제TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600003JU_20251029T003224SQUARE.png" group-title="KR",한국경제TV
+https://jmp2.uk/stvp-KR3600003JU
+#EXTINF:-1 channel-id="KR3500002AE" tvg-id="KR3500002AE" tvg-chno="677" tvg-name="MTN 머니투데이방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3500002AE_20251106T195305SQUARE.png" group-title="KR",MTN 머니투데이방송
+https://jmp2.uk/stvp-KR3500002AE
+#EXTINF:-1 channel-id="KRBB500039Y5" tvg-id="KRBB500039Y5" tvg-chno="793" tvg-name="Bloomberg TV+ UHD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20260422T012620SQUARE.png" group-title="KR",Bloomberg TV+ UHD
+https://jmp2.uk/stvp-KRBB500039Y5
+#EXTINF:-1 channel-id="KRBB500044GP" tvg-id="KRBB500044GP" tvg-chno="794" tvg-name="Bloomberg Originals" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20260422T012617SQUARE.png" group-title="KR",Bloomberg Originals
+https://jmp2.uk/stvp-KRBB500044GP
+#EXTINF:-1 channel-id="KRBD3100006X4" tvg-id="KRBD3100006X4" tvg-chno="795" tvg-name="글로벌 뉴스 by LeadStory" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20260422T014004SQUARE.png" group-title="KR",글로벌 뉴스 by LeadStory
+https://jmp2.uk/stvp-KRBD3100006X4
+#EXTINF:-1 channel-id="KR1400009B8" tvg-id="KR1400009B8" tvg-chno="504" tvg-name="유병재" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1400009B8_20260506T053714SQUARE.png" group-title="KR",유병재
+https://jmp2.uk/stvp-KR1400009B8
+#EXTINF:-1 channel-id="KRBC8000128W" tvg-id="KRBC8000128W" tvg-chno="508" tvg-name="tvN 바퀴달린 집 전시즌 몰아보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000128W_20260506T053658SQUARE.png" group-title="KR",tvN 바퀴달린 집 전시즌 몰아보기
+https://jmp2.uk/stvp-KRBC8000128W
+#EXTINF:-1 channel-id="KRBC320002200" tvg-id="KRBC320002200" tvg-chno="509" tvg-name="tvN STORY 김창옥쇼 3-4 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC320002200_20260506T053654SQUARE.png" group-title="KR",tvN STORY 김창옥쇼 3-4 이어보기
+https://jmp2.uk/stvp-KRBC320002200
+#EXTINF:-1 channel-id="KRBC800013YF" tvg-id="KRBC800013YF" tvg-chno="510" tvg-name="tvN STORY 각집부부" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800013YF_20260506T053652SQUARE.png" group-title="KR",tvN STORY 각집부부
+https://jmp2.uk/stvp-KRBC800013YF
+#EXTINF:-1 channel-id="KR400049VH" tvg-id="KR400049VH" tvg-chno="516" tvg-name="지구마불 세계여행" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400049VH_20260506T053718SQUARE.png" group-title="KR",지구마불 세계여행
+https://jmp2.uk/stvp-KR400049VH
+#EXTINF:-1 channel-id="KR700006WZ" tvg-id="KR700006WZ" tvg-chno="517" tvg-name="tvN 장사천재 백사장 1~2 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700006WZ_20260506T053709SQUARE.png" group-title="KR",tvN 장사천재 백사장 1~2 이어보기
+https://jmp2.uk/stvp-KR700006WZ
+#EXTINF:-1 channel-id="KRBC3200025QG" tvg-id="KRBC3200025QG" tvg-chno="518" tvg-name="tvN 서진이네 1~2 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200025QG_20260506T053704SQUARE.png" group-title="KR",tvN 서진이네 1~2 이어보기
+https://jmp2.uk/stvp-KRBC3200025QG
+#EXTINF:-1 channel-id="KR5000002QW" tvg-id="KR5000002QW" tvg-chno="519" tvg-name="쯔양" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR5000002QW_20260506T053721SQUARE.png" group-title="KR",쯔양
+https://jmp2.uk/stvp-KR5000002QW
+#EXTINF:-1 channel-id="KRBC3200029C4" tvg-id="KRBC3200029C4" tvg-chno="520" tvg-name="tvN 보검매직컬" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200029C4_20260506T053702SQUARE.png" group-title="KR",tvN 보검매직컬
+https://jmp2.uk/stvp-KRBC3200029C4
+#EXTINF:-1 channel-id="KRBB5000069BS" tvg-id="KRBB5000069BS" tvg-chno="541" tvg-name="MBC 무한도전" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20260422T012440SQUARE.png" group-title="KR",MBC 무한도전
+https://jmp2.uk/stvp-KRBB5000069BS
+#EXTINF:-1 channel-id="KRBB4200002MM" tvg-id="KRBB4200002MM" tvg-chno="542" tvg-name="SBS 런닝맨" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200002MM_20260422T013232SQUARE.png" group-title="KR",SBS 런닝맨
+https://jmp2.uk/stvp-KRBB4200002MM
+#EXTINF:-1 channel-id="KRBC3200032ZM" tvg-id="KRBC3200032ZM" tvg-chno="543" tvg-name="tvN 뿅뿅 지구오락실 전 시즌 모아보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200032ZM_20260422T012555SQUARE.png" group-title="KR",tvN 뿅뿅 지구오락실 전 시즌 모아보기
+https://jmp2.uk/stvp-KRBC3200032ZM
+#EXTINF:-1 channel-id="KRBC8000144F" tvg-id="KRBC8000144F" tvg-chno="544" tvg-name="tvN 콩콩팥팥 & 콩콩밥밥" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000144F_20260422T012459SQUARE.png" group-title="KR",tvN 콩콩팥팥 & 콩콩밥밥
+https://jmp2.uk/stvp-KRBC8000144F
+#EXTINF:-1 channel-id="KRBC4400003SD" tvg-id="KRBC4400003SD" tvg-chno="545" tvg-name="KBS 1박2일 시즌1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20260422T013634SQUARE.png" group-title="KR",KBS 1박2일 시즌1
+https://jmp2.uk/stvp-KRBC4400003SD
+#EXTINF:-1 channel-id="KRBC32000156C" tvg-id="KRBC32000156C" tvg-chno="546" tvg-name="tvN 삼시세끼 어촌편 5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000156C_20260422T012443SQUARE.png" group-title="KR",tvN 삼시세끼 어촌편 5
+https://jmp2.uk/stvp-KRBC32000156C
+#EXTINF:-1 channel-id="KR140000508" tvg-id="KR140000508" tvg-chno="547" tvg-name="빠니보틀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR140000508_20260422T014034SQUARE.png" group-title="KR",빠니보틀
+https://jmp2.uk/stvp-KR140000508
+#EXTINF:-1 channel-id="KRBC3200030BO" tvg-id="KRBC3200030BO" tvg-chno="548" tvg-name="tvN 삼시세끼 고창편" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200030BO_20260422T013940SQUARE.png" group-title="KR",tvN 삼시세끼 고창편
+https://jmp2.uk/stvp-KRBC3200030BO
+#EXTINF:-1 channel-id="KRBC32000248R" tvg-id="KRBC32000248R" tvg-chno="549" tvg-name="tvN 신서유기 7~8 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000248R_20260422T013516SQUARE.png" group-title="KR",tvN 신서유기 7~8 이어보기
+https://jmp2.uk/stvp-KRBC32000248R
+#EXTINF:-1 channel-id="KRBC200005H6" tvg-id="KRBC200005H6" tvg-chno="550" tvg-name="MBC 지붕뚫고 하이킥" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200005H6_20260422T013731SQUARE.png" group-title="KR",MBC 지붕뚫고 하이킥
+https://jmp2.uk/stvp-KRBC200005H6
+#EXTINF:-1 channel-id="KRBC2000010X" tvg-id="KRBC2000010X" tvg-chno="551" tvg-name="MBC 거침없이 하이킥" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC2000010X_20260422T013700SQUARE.png" group-title="KR",MBC 거침없이 하이킥
+https://jmp2.uk/stvp-KRBC2000010X
+#EXTINF:-1 channel-id="KRBC800016YS" tvg-id="KRBC800016YS" tvg-chno="552" tvg-name="tvN 대탈출 전 시즌" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800016YS_20260422T013935SQUARE.png" group-title="KR",tvN 대탈출 전 시즌
+https://jmp2.uk/stvp-KRBC800016YS
+#EXTINF:-1 channel-id="KRBC3200007D1" tvg-id="KRBC3200007D1" tvg-chno="553" tvg-name="맛있는 녀석들" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200007D1_20260422T014023SQUARE.png" group-title="KR",맛있는 녀석들
+https://jmp2.uk/stvp-KRBC3200007D1
+#EXTINF:-1 channel-id="KRBB4200012PV" tvg-id="KRBB4200012PV" tvg-chno="554" tvg-name="SBS 정글의 법칙" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200012PV_20260422T013843SQUARE.png" group-title="KR",SBS 정글의 법칙
+https://jmp2.uk/stvp-KRBB4200012PV
+#EXTINF:-1 channel-id="KRBB4200004RA" tvg-id="KRBB4200004RA" tvg-chno="555" tvg-name="SBS 순풍산부인과" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200004RA_20260422T013829SQUARE.png" group-title="KR",SBS 순풍산부인과
+https://jmp2.uk/stvp-KRBB4200004RA
+#EXTINF:-1 channel-id="KRBB50000711L" tvg-id="KRBB50000711L" tvg-chno="556" tvg-name="MBC 심야괴담회" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20260422T013718SQUARE.png" group-title="KR",MBC 심야괴담회
+https://jmp2.uk/stvp-KRBB50000711L
+#EXTINF:-1 channel-id="KRBC4100001LY" tvg-id="KRBC4100001LY" tvg-chno="558" tvg-name="채널A 나만 믿고 따라와 도시어부" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20260422T014103SQUARE.png" group-title="KR",채널A 나만 믿고 따라와 도시어부
+https://jmp2.uk/stvp-KRBC4100001LY
+#EXTINF:-1 channel-id="KRBC50000218R" tvg-id="KRBC50000218R" tvg-chno="559" tvg-name="JTBC 톡파원 25시" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000218R_20260422T013622SQUARE.png" group-title="KR",JTBC 톡파원 25시
+https://jmp2.uk/stvp-KRBC50000218R
+#EXTINF:-1 channel-id="KRBC200002I0" tvg-id="KRBC200002I0" tvg-chno="560" tvg-name="MBC 나혼자산다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200002I0_20260422T013704SQUARE.png" group-title="KR",MBC 나혼자산다
+https://jmp2.uk/stvp-KRBC200002I0
+#EXTINF:-1 channel-id="KR4800003H0" tvg-id="KR4800003H0" tvg-chno="561" tvg-name="MBC 구해줘홈즈" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4800003H0_20260422T012528SQUARE.png" group-title="KR",MBC 구해줘홈즈
+https://jmp2.uk/stvp-KR4800003H0
+#EXTINF:-1 channel-id="KRBC5000020AF" tvg-id="KRBC5000020AF" tvg-chno="562" tvg-name="JTBC 한문철의 블랙박스리뷰" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20260422T013626SQUARE.png" group-title="KR",JTBC 한문철의 블랙박스리뷰
+https://jmp2.uk/stvp-KRBC5000020AF
+#EXTINF:-1 channel-id="KRBC3500015BN" tvg-id="KRBC3500015BN" tvg-chno="563" tvg-name="용감한 형사들" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500015BN_20260422T014057SQUARE.png" group-title="KR",용감한 형사들
+https://jmp2.uk/stvp-KRBC3500015BN
+#EXTINF:-1 channel-id="KRBC20000347" tvg-id="KRBC20000347" tvg-chno="565" tvg-name="MBC 안싸우면 다행이야" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20260422T013721SQUARE.png" group-title="KR",MBC 안싸우면 다행이야
+https://jmp2.uk/stvp-KRBC20000347
+#EXTINF:-1 channel-id="KR48000047I" tvg-id="KR48000047I" tvg-chno="566" tvg-name="MBC 라디오스타" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR48000047I_20260422T012531SQUARE.png" group-title="KR",MBC 라디오스타
+https://jmp2.uk/stvp-KR48000047I
+#EXTINF:-1 channel-id="KRBB4200009C3" tvg-id="KRBB4200009C3" tvg-chno="569" tvg-name="나는 솔로" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200009C3_20260422T014008SQUARE.png" group-title="KR",나는 솔로
+https://jmp2.uk/stvp-KRBB4200009C3
+#EXTINF:-1 channel-id="KRBC20000418" tvg-id="KRBC20000418" tvg-chno="570" tvg-name="MBC 전지적 참견 시점" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000418_20260422T013728SQUARE.png" group-title="KR",MBC 전지적 참견 시점
+https://jmp2.uk/stvp-KRBC20000418
+#EXTINF:-1 channel-id="KRBB5000073UD" tvg-id="KRBB5000073UD" tvg-chno="571" tvg-name="MBC 놀면 뭐하니" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20260422T013707SQUARE.png" group-title="KR",MBC 놀면 뭐하니
+https://jmp2.uk/stvp-KRBB5000073UD
+#EXTINF:-1 channel-id="KR4500002GS" tvg-id="KR4500002GS" tvg-chno="572" tvg-name="MBC HOT CLIP 예능" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500002GS_20260422T012508SQUARE.png" group-title="KR",MBC HOT CLIP 예능
+https://jmp2.uk/stvp-KR4500002GS
+#EXTINF:-1 channel-id="KRBB42000100V" tvg-id="KRBB42000100V" tvg-chno="573" tvg-name="SBS 불타는 청춘" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000100V_20260422T013818SQUARE.png" group-title="KR",SBS 불타는 청춘
+https://jmp2.uk/stvp-KRBB42000100V
+#EXTINF:-1 channel-id="KRBC46000014A" tvg-id="KRBC46000014A" tvg-chno="574" tvg-name="JTBC 냉장고를 부탁해 2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000014A_20260422T013548SQUARE.png" group-title="KR",JTBC 냉장고를 부탁해 2
+https://jmp2.uk/stvp-KRBC46000014A
+#EXTINF:-1 channel-id="KRBC5000019FB" tvg-id="KRBC5000019FB" tvg-chno="575" tvg-name="JTBC 이혼숙려캠프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20260422T013605SQUARE.png" group-title="KR",JTBC 이혼숙려캠프
+https://jmp2.uk/stvp-KRBC5000019FB
+#EXTINF:-1 channel-id="KRBD2700002IV" tvg-id="KRBD2700002IV" tvg-chno="576" tvg-name="TV조선 미스터로또" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700002IV_20260422T013905SQUARE.png" group-title="KR",TV조선 미스터로또
+https://jmp2.uk/stvp-KRBD2700002IV
+#EXTINF:-1 channel-id="KRBD5200001G8" tvg-id="KRBD5200001G8" tvg-chno="577" tvg-name="JTBC 효리네 민박1&2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200001G8_20260422T013629SQUARE.png" group-title="KR",JTBC 효리네 민박1&2
+https://jmp2.uk/stvp-KRBD5200001G8
+#EXTINF:-1 channel-id="KRBD27000069Q" tvg-id="KRBD27000069Q" tvg-chno="578" tvg-name="TV조선 사랑의 콜센타" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD27000069Q_20260422T013909SQUARE.png" group-title="KR",TV조선 사랑의 콜센타
+https://jmp2.uk/stvp-KRBD27000069Q
+#EXTINF:-1 channel-id="KR400006MW" tvg-id="KR400006MW" tvg-chno="579" tvg-name="JTBC 냉장고를 부탁해" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400006MW_20260422T013545SQUARE.png" group-title="KR",JTBC 냉장고를 부탁해
+https://jmp2.uk/stvp-KR400006MW
+#EXTINF:-1 channel-id="KRBD3100002JL" tvg-id="KRBD3100002JL" tvg-chno="580" tvg-name="tvN 유 퀴즈 온 더 블럭 HOT CLIP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100002JL_20260422T013946SQUARE.png" group-title="KR",tvN 유 퀴즈 온 더 블럭 HOT CLIP
+https://jmp2.uk/stvp-KRBD3100002JL
+#EXTINF:-1 channel-id="KRBC32000261J" tvg-id="KRBC32000261J" tvg-chno="581" tvg-name="tvN 놀라운 토요일 하이라이트" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000261J_20260422T013933SQUARE.png" group-title="KR",tvN 놀라운 토요일 하이라이트
+https://jmp2.uk/stvp-KRBC32000261J
+#EXTINF:-1 channel-id="KR45000060I" tvg-id="KR45000060I" tvg-chno="582" tvg-name="KBS HOT CLIP 예능" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR45000060I_20260422T012520SQUARE.png" group-title="KR",KBS HOT CLIP 예능
+https://jmp2.uk/stvp-KR45000060I
+#EXTINF:-1 channel-id="KRBB50000721W" tvg-id="KRBB50000721W" tvg-chno="583" tvg-name="MBC 오은영리포트 결혼지옥" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000721W_20260422T013724SQUARE.png" group-title="KR",MBC 오은영리포트 결혼지옥
+https://jmp2.uk/stvp-KRBB50000721W
+#EXTINF:-1 channel-id="KRBB4200003ZL" tvg-id="KRBB4200003ZL" tvg-chno="584" tvg-name="SBS 미운 우리 새끼" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200003ZL_20260422T013811SQUARE.png" group-title="KR",SBS 미운 우리 새끼
+https://jmp2.uk/stvp-KRBB4200003ZL
+#EXTINF:-1 channel-id="KRBB4200011RB" tvg-id="KRBB4200011RB" tvg-chno="585" tvg-name="SBS 백종원의 골목식당" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200011RB_20260422T013814SQUARE.png" group-title="KR",SBS 백종원의 골목식당
+https://jmp2.uk/stvp-KRBB4200011RB
+#EXTINF:-1 channel-id="KRBC4000005EP" tvg-id="KRBC4000005EP" tvg-chno="586" tvg-name="KBS Joy 연애의 참견" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000005EP_20260422T013639SQUARE.png" group-title="KR",KBS Joy 연애의 참견
+https://jmp2.uk/stvp-KRBC4000005EP
+#EXTINF:-1 channel-id="KRBB500034DY" tvg-id="KRBB500034DY" tvg-chno="587" tvg-name="MBC every1 어서와 한국은 처음이지?" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500034DY_20260422T013657SQUARE.png" group-title="KR",MBC every1 어서와 한국은 처음이지?
+https://jmp2.uk/stvp-KRBB500034DY
+#EXTINF:-1 channel-id="KRBC3200008M6" tvg-id="KRBC3200008M6" tvg-chno="588" tvg-name="TV CHOSUN 식객 허영만의 백반기행" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200008M6_20260422T013900SQUARE.png" group-title="KR",TV CHOSUN 식객 허영만의 백반기행
+https://jmp2.uk/stvp-KRBC3200008M6
+#EXTINF:-1 channel-id="KRBB4200008PR" tvg-id="KRBB4200008PR" tvg-chno="589" tvg-name="SBS 신발 벗고 돌싱포맨" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200008PR_20260422T013833SQUARE.png" group-title="KR",SBS 신발 벗고 돌싱포맨
+https://jmp2.uk/stvp-KRBB4200008PR
+#EXTINF:-1 channel-id="KRBD4300003MW" tvg-id="KRBD4300003MW" tvg-chno="590" tvg-name="JTBC 크라임씬3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4300003MW_20260422T013619SQUARE.png" group-title="KR",JTBC 크라임씬3
+https://jmp2.uk/stvp-KRBD4300003MW
+#EXTINF:-1 channel-id="KR700003L9" tvg-id="KR700003L9" tvg-chno="591" tvg-name="KBS 개는 훌륭하다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700003L9_20260422T012537SQUARE.png" group-title="KR",KBS 개는 훌륭하다
+https://jmp2.uk/stvp-KR700003L9
+#EXTINF:-1 channel-id="KR1800002Q7" tvg-id="KR1800002Q7" tvg-chno="592" tvg-name="비보티비" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1800002Q7_20260422T014030SQUARE.png" group-title="KR",비보티비
+https://jmp2.uk/stvp-KR1800002Q7
+#EXTINF:-1 channel-id="KRBC4000002ME" tvg-id="KRBC4000002ME" tvg-chno="594" tvg-name="iHQ 돈쭐내러 왔습니다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000002ME_20260422T013925SQUARE.png" group-title="KR",iHQ 돈쭐내러 왔습니다
+https://jmp2.uk/stvp-KRBC4000002ME
+#EXTINF:-1 channel-id="KRBC3200028P2" tvg-id="KRBC3200028P2" tvg-chno="595" tvg-name="Mnet 월드 오브 스트릿 우먼 파이터" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20260506T053646SQUARE.png" group-title="KR",Mnet 월드 오브 스트릿 우먼 파이터
+https://jmp2.uk/stvp-KRBC3200028P2
+#EXTINF:-1 channel-id="KRBC4100005N5" tvg-id="KRBC4100005N5" tvg-chno="597" tvg-name="채널A 이제 만나러 갑니다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20260422T014105SQUARE.png" group-title="KR",채널A 이제 만나러 갑니다
+https://jmp2.uk/stvp-KRBC4100005N5
+#EXTINF:-1 channel-id="KRBB4200014MY" tvg-id="KRBB4200014MY" tvg-chno="598" tvg-name="SBS 패밀리가 떴다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200014MY_20260422T013850SQUARE.png" group-title="KR",SBS 패밀리가 떴다
+https://jmp2.uk/stvp-KRBB4200014MY
+#EXTINF:-1 channel-id="KR2900001RN" tvg-id="KR2900001RN" tvg-chno="599" tvg-name="바오패밀리" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2900001RN_20260422T014025SQUARE.png" group-title="KR",바오패밀리
+https://jmp2.uk/stvp-KR2900001RN
+#EXTINF:-1 channel-id="KR480000234" tvg-id="KR480000234" tvg-chno="600" tvg-name="할명수" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR480000234_20260422T014124SQUARE.png" group-title="KR",할명수
+https://jmp2.uk/stvp-KR480000234
+#EXTINF:-1 channel-id="KRBC3500019CD" tvg-id="KRBC3500019CD" tvg-chno="601" tvg-name="MBN 속풀이쇼 동치미" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500019CD_20260422T013740SQUARE.png" group-title="KR",MBN 속풀이쇼 동치미
+https://jmp2.uk/stvp-KRBC3500019CD
+#EXTINF:-1 channel-id="KRBC4100008Z6" tvg-id="KRBC4100008Z6" tvg-chno="602" tvg-name="E채널 토요일은 밥이 좋아" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100008Z6_20260422T013531SQUARE.png" group-title="KR",E채널 토요일은 밥이 좋아
+https://jmp2.uk/stvp-KRBC4100008Z6
+#EXTINF:-1 channel-id="KR4100001LW" tvg-id="KR4100001LW" tvg-chno="603" tvg-name="살롱드립" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4100001LW_20260422T014039SQUARE.png" group-title="KR",살롱드립
+https://jmp2.uk/stvp-KR4100001LW
+#EXTINF:-1 channel-id="KRBC3200009M7" tvg-id="KRBC3200009M7" tvg-chno="604" tvg-name="KBS Joy 무엇이든 물어보살" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200009M7_20260422T013637SQUARE.png" group-title="KR",KBS Joy 무엇이든 물어보살
+https://jmp2.uk/stvp-KRBC3200009M7
+#EXTINF:-1 channel-id="KRBD2700001QR" tvg-id="KRBD2700001QR" tvg-chno="605" tvg-name="TV조선 생존왕" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700001QR_20260422T013912SQUARE.png" group-title="KR",TV조선 생존왕
+https://jmp2.uk/stvp-KRBD2700001QR
+#EXTINF:-1 channel-id="KRBC3200014XZ" tvg-id="KRBC3200014XZ" tvg-chno="606" tvg-name="tvN STORY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20260422T013931SQUARE.png" group-title="KR",tvN STORY
+https://jmp2.uk/stvp-KRBC3200014XZ
+#EXTINF:-1 channel-id="KR4500004XC" tvg-id="KR4500004XC" tvg-chno="607" tvg-name="SBS HOT CLIP 예능" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500004XC_20260422T012514SQUARE.png" group-title="KR",SBS HOT CLIP 예능
+https://jmp2.uk/stvp-KR4500004XC
+#EXTINF:-1 channel-id="KR40000410" tvg-id="KR40000410" tvg-chno="608" tvg-name="JTBC 캠핑클럽" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR40000410_20260422T013615SQUARE.png" group-title="KR",JTBC 캠핑클럽
+https://jmp2.uk/stvp-KR40000410
+#EXTINF:-1 channel-id="KR36000040X" tvg-id="KR36000040X" tvg-chno="609" tvg-name="더라이프2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR36000040X_20260224T012110SQUARE.png" group-title="KR",더라이프2
+https://jmp2.uk/stvp-KR36000040X
+#EXTINF:-1 channel-id="KR2400001TI" tvg-id="KR2400001TI" tvg-chno="796" tvg-name="Mr. Bean" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2400001TI_20260422T013746SQUARE.png" group-title="KR",Mr. Bean
+https://jmp2.uk/stvp-KR2400001TI
+#EXTINF:-1 channel-id="KR3200003RR" tvg-id="KR3200003RR" tvg-chno="798" tvg-name="코난 오브라이언 쇼" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200003RR_20260422T014111SQUARE.png" group-title="KR",코난 오브라이언 쇼
+https://jmp2.uk/stvp-KR3200003RR
+#EXTINF:-1 channel-id="KR4400004NB" tvg-id="KR4400004NB" tvg-chno="505" tvg-name="MBC 옥탑방 고양이 (Remastered)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4400004NB_20260506T053642SQUARE.png" group-title="KR",MBC 옥탑방 고양이 (Remastered)
+https://jmp2.uk/stvp-KR4400004NB
+#EXTINF:-1 channel-id="KR44000056U" tvg-id="KR44000056U" tvg-chno="506" tvg-name="SBS 건빵선생과 별사탕 (Remastered)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000056U_20260506T053648SQUARE.png" group-title="KR",SBS 건빵선생과 별사탕 (Remastered)
+https://jmp2.uk/stvp-KR44000056U
+#EXTINF:-1 channel-id="KR4400003ER" tvg-id="KR4400003ER" tvg-chno="507" tvg-name="KBS 여름향기 (Remastered)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4400003ER_20260506T053638SQUARE.png" group-title="KR",KBS 여름향기 (Remastered)
+https://jmp2.uk/stvp-KR4400003ER
+#EXTINF:-1 channel-id="KRBC3200016H1" tvg-id="KRBC3200016H1" tvg-chno="511" tvg-name="tvN 감자연구소" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200016H1_20260506T053656SQUARE.png" group-title="KR",tvN 감자연구소
+https://jmp2.uk/stvp-KRBC3200016H1
+#EXTINF:-1 channel-id="KRBC3200018FU" tvg-id="KRBC3200018FU" tvg-chno="512" tvg-name="tvN 별들에게 물어봐" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20260506T053700SQUARE.png" group-title="KR",tvN 별들에게 물어봐
+https://jmp2.uk/stvp-KRBC3200018FU
+#EXTINF:-1 channel-id="KRBC4500002Q4" tvg-id="KRBC4500002Q4" tvg-chno="515" tvg-name="tvN 철인왕후" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500002Q4_20260506T053711SQUARE.png" group-title="KR",tvN 철인왕후
+https://jmp2.uk/stvp-KRBC4500002Q4
+#EXTINF:-1 channel-id="KRBB420000180" tvg-id="KRBB420000180" tvg-chno="621" tvg-name="SBS 모범택시" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000180_20260422T012539SQUARE.png" group-title="KR",SBS 모범택시
+https://jmp2.uk/stvp-KRBB420000180
+#EXTINF:-1 channel-id="KRBC4500003W6" tvg-id="KRBC4500003W6" tvg-chno="622" tvg-name="tvN 슬기로운 의사생활 1~2 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500003W6_20260422T013943SQUARE.png" group-title="KR",tvN 슬기로운 의사생활 1~2 이어보기
+https://jmp2.uk/stvp-KRBC4500003W6
+#EXTINF:-1 channel-id="KRBC3200013UR" tvg-id="KRBC3200013UR" tvg-chno="623" tvg-name="tvN 응답하라 전 시즌 모아보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200013UR_20260422T013948SQUARE.png" group-title="KR",tvN 응답하라 전 시즌 모아보기
+https://jmp2.uk/stvp-KRBC3200013UR
+#EXTINF:-1 channel-id="KRBC3500014ZH" tvg-id="KRBC3500014ZH" tvg-chno="624" tvg-name="고독한 미식가" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20260422T013958SQUARE.png" group-title="KR",고독한 미식가
+https://jmp2.uk/stvp-KRBC3500014ZH
+#EXTINF:-1 channel-id="KRBB42000061Z" tvg-id="KRBB42000061Z" tvg-chno="625" tvg-name="SBS 야인시대" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20260422T013836SQUARE.png" group-title="KR",SBS 야인시대
+https://jmp2.uk/stvp-KRBB42000061Z
+#EXTINF:-1 channel-id="KR7000023Z" tvg-id="KR7000023Z" tvg-chno="626" tvg-name="KBS 구르미 그린 달빛" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000023Z_20260422T013644SQUARE.png" group-title="KR",KBS 구르미 그린 달빛
+https://jmp2.uk/stvp-KR7000023Z
+#EXTINF:-1 channel-id="KRBC4400002AO" tvg-id="KRBC4400002AO" tvg-chno="627" tvg-name="KBS 최고다 이순신" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20260506T053640SQUARE.png" group-title="KR",KBS 최고다 이순신
+https://jmp2.uk/stvp-KRBC4400002AO
+#EXTINF:-1 channel-id="KRBC4400001TZ" tvg-id="KRBC4400001TZ" tvg-chno="628" tvg-name="KBS 신사와 아가씨" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20260422T013647SQUARE.png" group-title="KR",KBS 신사와 아가씨
+https://jmp2.uk/stvp-KRBC4400001TZ
+#EXTINF:-1 channel-id="KR4600012CR" tvg-id="KR4600012CR" tvg-chno="629" tvg-name="KBS 태조 왕건" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4600012CR_20260422T012526SQUARE.png" group-title="KR",KBS 태조 왕건
+https://jmp2.uk/stvp-KR4600012CR
+#EXTINF:-1 channel-id="KR1200002QR" tvg-id="KR1200002QR" tvg-chno="631" tvg-name="<신병> 정주행" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1200002QR_20260422T013521SQUARE.png" group-title="KR",<신병> 정주행
+https://jmp2.uk/stvp-KR1200002QR
+#EXTINF:-1 channel-id="KR400003IP" tvg-id="KR400003IP" tvg-chno="632" tvg-name="JTBC 재벌집 막내아들" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400003IP_20260422T013609SQUARE.png" group-title="KR",JTBC 재벌집 막내아들
+https://jmp2.uk/stvp-KR400003IP
+#EXTINF:-1 channel-id="KR2000010K7" tvg-id="KR2000010K7" tvg-chno="634" tvg-name="나의 해리에게" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000010K7_20260422T014014SQUARE.png" group-title="KR",나의 해리에게
+https://jmp2.uk/stvp-KR2000010K7
+#EXTINF:-1 channel-id="KR4500003V9" tvg-id="KR4500003V9" tvg-chno="636" tvg-name="SBS HOT CLIP 드라마" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500003V9_20260422T012511SQUARE.png" group-title="KR",SBS HOT CLIP 드라마
+https://jmp2.uk/stvp-KR4500003V9
+#EXTINF:-1 channel-id="KRBB4200005CK" tvg-id="KRBB4200005CK" tvg-chno="637" tvg-name="SBS 내 남자의 여자" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200005CK_20260422T013808SQUARE.png" group-title="KR",SBS 내 남자의 여자
+https://jmp2.uk/stvp-KRBB4200005CK
+#EXTINF:-1 channel-id="KR200000503" tvg-id="KR200000503" tvg-chno="638" tvg-name="행복배틀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR200000503_20260422T014126SQUARE.png" group-title="KR",행복배틀
+https://jmp2.uk/stvp-KR200000503
+#EXTINF:-1 channel-id="KRBB5000070U4" tvg-id="KRBB5000070U4" tvg-chno="640" tvg-name="MBC 밤에 피는 꽃" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20260422T013714SQUARE.png" group-title="KR",MBC 밤에 피는 꽃
+https://jmp2.uk/stvp-KRBB5000070U4
+#EXTINF:-1 channel-id="KRBB500037T3" tvg-id="KRBB500037T3" tvg-chno="642" tvg-name="MBC every1 별순검" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20260422T013655SQUARE.png" group-title="KR",MBC every1 별순검
+https://jmp2.uk/stvp-KRBB500037T3
+#EXTINF:-1 channel-id="KR2000008LX" tvg-id="KR2000008LX" tvg-chno="643" tvg-name="야한 사진관" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000008LX_20260422T014051SQUARE.png" group-title="KR",야한 사진관
+https://jmp2.uk/stvp-KR2000008LX
+#EXTINF:-1 channel-id="KRBB420001572" tvg-id="KRBB420001572" tvg-chno="644" tvg-name="SBS 올인" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20260422T013839SQUARE.png" group-title="KR",SBS 올인
+https://jmp2.uk/stvp-KRBB420001572
+#EXTINF:-1 channel-id="KRBC4500001A5" tvg-id="KRBC4500001A5" tvg-chno="645" tvg-name="tvN 환혼 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500001A5_20260422T013953SQUARE.png" group-title="KR",tvN 환혼 4K
+https://jmp2.uk/stvp-KRBC4500001A5
+#EXTINF:-1 channel-id="KR4500001KZ" tvg-id="KR4500001KZ" tvg-chno="646" tvg-name="MBC HOT CLIP 드라마" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500001KZ_20260422T012505SQUARE.png" group-title="KR",MBC HOT CLIP 드라마
+https://jmp2.uk/stvp-KR4500001KZ
+#EXTINF:-1 channel-id="KRBC3200031KO" tvg-id="KRBC3200031KO" tvg-chno="649" tvg-name="tvN 인급동" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200031KO_20260506T053707SQUARE.png" group-title="KR",tvN 인급동
+https://jmp2.uk/stvp-KRBC3200031KO
+#EXTINF:-1 channel-id="KR2000006NC" tvg-id="KR2000006NC" tvg-chno="650" tvg-name="마당이 있는 집" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000006NC_20260422T014020SQUARE.png" group-title="KR",마당이 있는 집
+https://jmp2.uk/stvp-KR2000006NC
+#EXTINF:-1 channel-id="KR2000007LI" tvg-id="KR2000007LI" tvg-chno="651" tvg-name="가우스전자" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000007LI_20260422T013956SQUARE.png" group-title="KR",가우스전자
+https://jmp2.uk/stvp-KR2000007LI
+#EXTINF:-1 channel-id="KRBC35000169K" tvg-id="KRBC35000169K" tvg-chno="653" tvg-name="TV조선 나의 해피엔드" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC35000169K_20260422T013902SQUARE.png" group-title="KR",TV조선 나의 해피엔드
+https://jmp2.uk/stvp-KRBC35000169K
+#EXTINF:-1 channel-id="KR2000004DJ" tvg-id="KR2000004DJ" tvg-chno="654" tvg-name="구필수는 없다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000004DJ_20260422T014001SQUARE.png" group-title="KR",구필수는 없다
+https://jmp2.uk/stvp-KR2000004DJ
+#EXTINF:-1 channel-id="KR4000020F" tvg-id="KR4000020F" tvg-chno="655" tvg-name="JTBC 라이프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4000020F_20260422T013555SQUARE.png" group-title="KR",JTBC 라이프
+https://jmp2.uk/stvp-KR4000020F
+#EXTINF:-1 channel-id="KR2000011GA" tvg-id="KR2000011GA" tvg-chno="656" tvg-name="나미브" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000011GA_20260422T014011SQUARE.png" group-title="KR",나미브
+https://jmp2.uk/stvp-KR2000011GA
+#EXTINF:-1 channel-id="KR2000009EC" tvg-id="KR2000009EC" tvg-chno="658" tvg-name="낮에 뜨는 달" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000009EC_20260422T012425SQUARE.png" group-title="KR",낮에 뜨는 달
+https://jmp2.uk/stvp-KR2000009EC
+#EXTINF:-1 channel-id="KR2000003T6" tvg-id="KR2000003T6" tvg-chno="659" tvg-name="라이딩 인생" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000003T6_20260422T012421SQUARE.png" group-title="KR",라이딩 인생
+https://jmp2.uk/stvp-KR2000003T6
+#EXTINF:-1 channel-id="KR10000017U" tvg-id="KR10000017U" tvg-chno="701" tvg-name="투니버스 짱구는 못말려" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR10000017U_20260422T014119SQUARE.png" group-title="KR",투니버스 짱구는 못말려
+https://jmp2.uk/stvp-KR10000017U
+#EXTINF:-1 channel-id="KRBC3500020AF" tvg-id="KRBC3500020AF" tvg-chno="702" tvg-name="베베핀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500020AF_20260422T014028SQUARE.png" group-title="KR",베베핀
+https://jmp2.uk/stvp-KRBC3500020AF
+#EXTINF:-1 channel-id="KRBC32000200B" tvg-id="KRBC32000200B" tvg-chno="703" tvg-name="투니버스 명탐정 코난 (자막)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000200B_20260422T014116SQUARE.png" group-title="KR",투니버스 명탐정 코난 (자막)
+https://jmp2.uk/stvp-KRBC32000200B
+#EXTINF:-1 channel-id="KR2200004C1" tvg-id="KR2200004C1" tvg-chno="704" tvg-name="캐리TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2200004C1_20260422T012559SQUARE.png" group-title="KR",캐리TV
+https://jmp2.uk/stvp-KR2200004C1
+#EXTINF:-1 channel-id="KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-chno="705" tvg-name="Animax 요리왕 비룡 더 마스터" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20260422T013525SQUARE.png" group-title="KR",Animax 요리왕 비룡 더 마스터
+https://jmp2.uk/stvp-KRBC3200001VC
+#EXTINF:-1 channel-id="KRBC3200017JQ" tvg-id="KRBC3200017JQ" tvg-chno="706" tvg-name="투니버스 흔한남매의 안흔한일기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20260422T014121SQUARE.png" group-title="KR",투니버스 흔한남매의 안흔한일기
+https://jmp2.uk/stvp-KRBC3200017JQ
+#EXTINF:-1 channel-id="KRBC32000126M" tvg-id="KRBC32000126M" tvg-chno="708" tvg-name="ch.핑크퐁" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000126M_20260422T013920SQUARE.png" group-title="KR",ch.핑크퐁
+https://jmp2.uk/stvp-KRBC32000126M
+#EXTINF:-1 channel-id="KRBC3500013VH" tvg-id="KRBC3500013VH" tvg-chno="709" tvg-name="로보카폴리 TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20260422T014017SQUARE.png" group-title="KR",로보카폴리 TV
+https://jmp2.uk/stvp-KRBC3500013VH
+#EXTINF:-1 channel-id="KR900001U5" tvg-id="KR900001U5" tvg-chno="710" tvg-name="뽀요TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR900001U5_20260422T014036SQUARE.png" group-title="KR",뽀요TV
+https://jmp2.uk/stvp-KR900001U5
+#EXTINF:-1 channel-id="KRBB500035VF" tvg-id="KRBB500035VF" tvg-chno="711" tvg-name="코코비TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20260422T014114SQUARE.png" group-title="KR",코코비TV
+https://jmp2.uk/stvp-KRBB500035VF
+#EXTINF:-1 channel-id="KRBB420000769" tvg-id="KRBB420000769" tvg-chno="681" tvg-name="SBS TV 동물농장" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000769_20260422T013756SQUARE.png" group-title="KR",SBS TV 동물농장
+https://jmp2.uk/stvp-KRBB420000769
+#EXTINF:-1 channel-id="KRBC40000010R" tvg-id="KRBC40000010R" tvg-chno="682" tvg-name="EBS 극한 직업" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20260506T053632SQUARE.png" group-title="KR",EBS 극한 직업
+https://jmp2.uk/stvp-KRBC40000010R
+#EXTINF:-1 channel-id="KRBC3500017PO" tvg-id="KRBC3500017PO" tvg-chno="683" tvg-name="MBN 나는 자연인이다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500017PO_20260422T013735SQUARE.png" group-title="KR",MBN 나는 자연인이다
+https://jmp2.uk/stvp-KRBC3500017PO
+#EXTINF:-1 channel-id="KRBC3200021ZA" tvg-id="KRBC3200021ZA" tvg-chno="684" tvg-name="tvN 벌거벗은 세계사 요약.zip" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200021ZA_20260422T013938SQUARE.png" group-title="KR",tvN 벌거벗은 세계사 요약.zip
+https://jmp2.uk/stvp-KRBC3200021ZA
+#EXTINF:-1 channel-id="KRBB4200016TZ" tvg-id="KRBB4200016TZ" tvg-chno="685" tvg-name="SBS 궁금한 이야기 Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200016TZ_20260422T013800SQUARE.png" group-title="KR",SBS 궁금한 이야기 Y
+https://jmp2.uk/stvp-KRBB4200016TZ
+#EXTINF:-1 channel-id="KRBB4200017HA" tvg-id="KRBB4200017HA" tvg-chno="686" tvg-name="SBS 그것이 알고싶다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200017HA_20260422T013804SQUARE.png" group-title="KR",SBS 그것이 알고싶다
+https://jmp2.uk/stvp-KRBB4200017HA
+#EXTINF:-1 channel-id="KRBB4200013L5" tvg-id="KRBB4200013L5" tvg-chno="687" tvg-name="SBS 순간포착 세상에 이런일이" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200013L5_20260422T013825SQUARE.png" group-title="KR",SBS 순간포착 세상에 이런일이
+https://jmp2.uk/stvp-KRBB4200013L5
+#EXTINF:-1 channel-id="KRBB4200018FT" tvg-id="KRBB4200018FT" tvg-chno="688" tvg-name="SBS 생활의 달인" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200018FT_20260422T013822SQUARE.png" group-title="KR",SBS 생활의 달인
+https://jmp2.uk/stvp-KRBB4200018FT
+#EXTINF:-1 channel-id="KRBC3500018J9" tvg-id="KRBC3500018J9" tvg-chno="689" tvg-name="MBN 휴먼다큐 사노라면" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20260422T013743SQUARE.png" group-title="KR",MBN 휴먼다큐 사노라면
+https://jmp2.uk/stvp-KRBC3500018J9
+#EXTINF:-1 channel-id="KR3600006FN" tvg-id="KR3600006FN" tvg-chno="690" tvg-name="아리랑TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600006FN_20251106T195327SQUARE.png" group-title="KR",아리랑TV
+https://jmp2.uk/stvp-KR3600006FN
+#EXTINF:-1 channel-id="KRBD370000134" tvg-id="KRBD370000134" tvg-chno="792" tvg-name="TED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD370000134_20260422T013857SQUARE.png" group-title="KR",TED
+https://jmp2.uk/stvp-KRBD370000134
+#EXTINF:-1 channel-id="KRBD2200001QD" tvg-id="KRBD2200001QD" tvg-chno="761" tvg-name="우리의식탁" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20260422T014100SQUARE.png" group-title="KR",우리의식탁
+https://jmp2.uk/stvp-KRBD2200001QD
+#EXTINF:-1 channel-id="KRAH2201403A" tvg-id="KRAH2201403A" tvg-chno="765" tvg-name="SAMSUNG UHD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH2201403A_20260422T012851SQUARE.png" group-title="KR",SAMSUNG UHD
+https://jmp2.uk/stvp-KRAH2201403A
+#EXTINF:-1 channel-id="KRBD44000025L" tvg-id="KRBD44000025L" tvg-chno="791" tvg-name="Fireplace 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20260422T013535SQUARE.png" group-title="KR",Fireplace 4K
+https://jmp2.uk/stvp-KRBD44000025L
+#EXTINF:-1 channel-id="KR2900002NO" tvg-id="KR2900002NO" tvg-chno="811" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2900002NO_20260422T013533SQUARE.png" group-title="KR",FIFA+
+https://jmp2.uk/stvp-KR2900002NO
+#EXTINF:-1 channel-id="KRBD3100007WB" tvg-id="KRBD3100007WB" tvg-chno="812" tvg-name="PGA Tour" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20260422T013751SQUARE.png" group-title="KR",PGA Tour
+https://jmp2.uk/stvp-KRBD3100007WB
+#EXTINF:-1 channel-id="KRBC3200005SH" tvg-id="KRBC3200005SH" tvg-chno="813" tvg-name="OGN 스타리그" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20260422T013748SQUARE.png" group-title="KR",OGN 스타리그
+https://jmp2.uk/stvp-KRBC3200005SH
+#EXTINF:-1 channel-id="KR36000056R" tvg-id="KR36000056R" tvg-chno="814" tvg-name="K바둑" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR36000056R_20251106T195254SQUARE.png" group-title="KR",K바둑
+https://jmp2.uk/stvp-KR36000056R
+#EXTINF:-1 channel-id="KRBB5000364M" tvg-id="KRBB5000364M" tvg-chno="815" tvg-name="초록뱀미디어 K-STAR 골프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20260422T014108SQUARE.png" group-title="KR",초록뱀미디어 K-STAR 골프
+https://jmp2.uk/stvp-KRBB5000364M
+#EXTINF:-1 channel-id="KRBC3200011N3" tvg-id="KRBC3200011N3" tvg-chno="816" tvg-name="World Billiards TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200011N3_20260422T013915SQUARE.png" group-title="KR",World Billiards TV
+https://jmp2.uk/stvp-KRBC3200011N3
+#EXTINF:-1 channel-id="KRBC800015MH" tvg-id="KRBC800015MH" tvg-chno="817" tvg-name="tvN SPORTS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800015MH_20260422T013928SQUARE.png" group-title="KR",tvN SPORTS
+https://jmp2.uk/stvp-KRBC800015MH
+#EXTINF:-1 channel-id="KRBD5200002XY" tvg-id="KRBD5200002XY" tvg-chno="818" tvg-name="JTBC 골프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200002XY_20260422T013542SQUARE.png" group-title="KR",JTBC 골프
+https://jmp2.uk/stvp-KRBD5200002XY
+#EXTINF:-1 channel-id="KR39000030H" tvg-id="KR39000030H" tvg-chno="819" tvg-name="요가소년" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR39000030H_20260422T012431SQUARE.png" group-title="KR",요가소년
+https://jmp2.uk/stvp-KR39000030H
+#EXTINF:-1 channel-id="KR260000274" tvg-id="KR260000274" tvg-chno="820" tvg-name="힙으뜸" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR260000274_20260422T014129SQUARE.png" group-title="KR",힙으뜸
+https://jmp2.uk/stvp-KR260000274
+#EXTINF:-1 channel-id="KRBD5200003O2" tvg-id="KRBD5200003O2" tvg-chno="821" tvg-name="JTBC 뭉쳐야 찬다3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200003O2_20260422T013558SQUARE.png" group-title="KR",JTBC 뭉쳐야 찬다3
+https://jmp2.uk/stvp-KRBD5200003O2
+#EXTINF:-1 channel-id="KR44000010Y" tvg-id="KR44000010Y" tvg-chno="822" tvg-name="스크린골프존" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20260422T014046SQUARE.png" group-title="KR",스크린골프존
+https://jmp2.uk/stvp-KR44000010Y
+#EXTINF:-1 channel-id="KR400005KB" tvg-id="KR400005KB" tvg-chno="823" tvg-name="JTBC 최강야구" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400005KB_20260422T013612SQUARE.png" group-title="KR",JTBC 최강야구
+https://jmp2.uk/stvp-KR400005KB
+#EXTINF:-1 channel-id="KR2000012AI" tvg-id="KR2000012AI" tvg-chno="741" tvg-name="Genie 가정의 달 특집" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000012AI_20260506T053635SQUARE.png" group-title="KR",Genie 가정의 달 특집
+https://jmp2.uk/stvp-KR2000012AI
+#EXTINF:-1 channel-id="KRBC32000191N" tvg-id="KRBC32000191N" tvg-chno="742" tvg-name="CJ ENM MOVIE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20260422T012545SQUARE.png" group-title="KR",CJ ENM MOVIE
+https://jmp2.uk/stvp-KRBC32000191N
+#EXTINF:-1 channel-id="KR12000017G" tvg-id="KR12000017G" tvg-chno="743" tvg-name="Genie Movie" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR12000017G_20260422T013539SQUARE.png" group-title="KR",Genie Movie
+https://jmp2.uk/stvp-KR12000017G
+#EXTINF:-1 channel-id="KRBC3200004D1" tvg-id="KRBC3200004D1" tvg-chno="744" tvg-name="PLAYGRAM MOVIES" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20260422T013754SQUARE.png" group-title="KR",PLAYGRAM MOVIES
+https://jmp2.uk/stvp-KRBC3200004D1
+#EXTINF:-1 channel-id="KRBD26000011V" tvg-id="KRBD26000011V" tvg-chno="745" tvg-name="씨네21+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20260422T014048SQUARE.png" group-title="KR",씨네21+
+https://jmp2.uk/stvp-KRBD26000011V
+#EXTINF:-1 channel-id="KR410000247" tvg-id="KR410000247" tvg-chno="721" tvg-name="essential; by Bugs" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR410000247_20260422T013923SQUARE.png" group-title="KR",essential; by Bugs
+https://jmp2.uk/stvp-KR410000247
+#EXTINF:-1 channel-id="KRBD43000023M" tvg-id="KRBD43000023M" tvg-chno="722" tvg-name="JTBC 비긴어게인 - 오픈마이크" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD43000023M_20260422T013602SQUARE.png" group-title="KR",JTBC 비긴어게인 - 오픈마이크
+https://jmp2.uk/stvp-KRBD43000023M
+#EXTINF:-1 channel-id="KRBC3200023BG" tvg-id="KRBC3200023BG" tvg-chno="723" tvg-name="M2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200023BG_20260422T013652SQUARE.png" group-title="KR",M2
+https://jmp2.uk/stvp-KRBC3200023BG
+#EXTINF:-1 channel-id="KRBC41000021C" tvg-id="KRBC41000021C" tvg-chno="724" tvg-name="K-ASMR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC41000021C_20260422T013632SQUARE.png" group-title="KR",K-ASMR
+https://jmp2.uk/stvp-KRBC41000021C
+#EXTINF:-1 channel-id="KR10000027H" tvg-id="KR10000027H" tvg-chno="725" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR10000027H_20260422T013854SQUARE.png" group-title="KR",SMTOWN
+https://jmp2.uk/stvp-KR10000027H
+#EXTINF:-1 channel-id="KR45000052W" tvg-id="KR45000052W" tvg-chno="726" tvg-name="KBS HOT CLIP 음악" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR45000052W_20260422T012517SQUARE.png" group-title="KR",KBS HOT CLIP 음악
+https://jmp2.uk/stvp-KR45000052W
+#EXTINF:-1 channel-id="KRAH1801500A" tvg-id="KRAH1801500A" tvg-chno="763" tvg-name="현대홈쇼핑" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20260422T013224SQUARE.png" group-title="KR",현대홈쇼핑
+https://jmp2.uk/stvp-KRAH1801500A
+#EXTINF:-1 channel-id="KRAH4602000A" tvg-id="KRAH4602000A" tvg-chno="764" tvg-name="현대홈쇼핑+Shop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20260422T013227SQUARE.png" group-title="KR",현대홈쇼핑+Shop
+https://jmp2.uk/stvp-KRAH4602000A
+#EXTINF:-1 tvg-id="NBS.kr@SD" group-title="KR",NBS Korea Agricultural Broadcasting (720p)
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="GoodTV.kr@SD" group-title="KR",GoodTV (1080p)
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RUTCTV.kr@SD" group-title="KR",RUTC TV (720p)
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLDRDTV.kr@SD" group-title="KR",SBS CJB (540p) [Not 24/7]
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVChosun.kr@SD" group-title="KR",TV Chosun (720p)
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVChosun2.kr@SD" group-title="KR",TV Chosun 2 (720p)
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 tvg-id="TBSTV.kr@SD" group-title="KR",TBS Seoul (720p)
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr@SD" group-title="KR",KBS World
+https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
+#EXTINF:-1 tvg-id="99991348" tvg-name="KOCOWA K-Drama" tvg-logo="https://image.xumo.com/v1/channels/channel/99991348/168x168.png?type=color_onBlack" group-title="KR",KOCOWA K-Drama
+https://live-content.xumo.com/285/content/XM00TQYP072MHP/28509696/master.m3u8
+#EXTINF:-1 tvg-id="99991386" tvg-name="NEW Korean MOVIES & SERIES" tvg-logo="https://image.xumo.com/v1/channels/channel/99991386/168x168.png?type=color_onBlack" group-title="KR",NEW Korean MOVIES & SERIES
+https://live-content.xumo.com/1825/content/XM0UTYWW1NN3CW/24441525/master.m3u8
+#Xumo
+#EXTINF:-1 group-title="Xumo" tvg-id="99991709" tvg-name="Hallmark Movies & More" tvg-logo="https://image.xumo.com/v1/channels/channel/99991709/168x168.png?type=color_onBlack",Hallmark Movies & More
+https://live-content.xumo.com/2777/content/XM0XUEID928WW6/27390047/master.m3u8
+#EXTINF:-1 group-title="Xumo" tvg-id="99951251" tvg-name="MovieSphere by Lionsgate" tvg-logo="https://image.xumo.com/v1/channels/channel/99951251/168x168.png?type=color_onBlack",MovieSphere by Lionsgate
+https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=bbd83a17-77a3-406f-a858-03222fcca485&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 group-title="Xumo" tvg-id="99991302" tvg-name="Hi-Yah!" tvg-logo="https://image.xumo.com/v1/channels/channel/99991302/168x168.png?type=color_onBlack",Hi-Yah!
+https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302&ads.xumo_streamId=99991302&ads.channelId=99991302&ads.channelName=hiyah_us&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_coppa=0&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_ifa_type=&ads._fw_did=04a2b783-062d-4300-a078-0b9239d96d3a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
+#EXTINF:-1 group-title="Xumo" tvg-id="99991312" tvg-name="Gravitas Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/99991312/168x168.png?type=color_onBlack",Gravitas Movies
+https://live-content.xumo.com/247/content/XM0KO3VJN275MN/23150725/master.m3u8
+#EXTINF:-1 group-title="Xumo" tvg-id="99991638" tvg-name="DOCUMENTARY+" tvg-logo="https://image.xumo.com/v1/channels/channel/99991638/168x168.png?type=color_onBlack",DOCUMENTARY+
+https://live-content.xumo.com/2715/content/XM0HMK27MHZE8P/28717693/master.m3u8
+#EXTINF:-1 group-title="Xumo" tvg-id="99991300" tvg-name="Stash TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991300/168x168.png?type=color_onBlack",Stash TV
+https://live-content.xumo.com/2492/content/XM0YK9N7YHDW3B/27540067/master.m3u8
+#EXTINF:-1 group-title="Xumo" tvg-id="99991745" tvg-name="The Wu Tang Collection TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991745/168x168.png?type=color_onBlack",The Wu Tang Collection TV
+https://live-content.xumo.com/2185/content/XM0U2ULCEF0U9O/23214274/master.m3u8
+#EXTINF:-1 group-title="Xumo" tvg-id="99991756" tvg-name="Xumo Free Bollywood & Indian Cinema" tvg-logo="https://image.xumo.com/v1/channels/channel/99991756/168x168.png?type=color_onBlack",Xumo Free Bollywood & Indian Cinema
+https://live-content.xumo.com/1083/content/XM0RH9TQ5T7ZWV/25840593/master.m3u8
+#EXTINF:-1 group-title="Xumo" tvg-id="99991337" tvg-name="FilmRise Action" tvg-logo="https://image.xumo.com/v1/channels/channel/99991337/168x168.png?type=color_onBlack",FilmRise Action
+https://live-content.xumo.com/260/content/XM0I9V7ZTLD8AO/22226985/master.m3u8
+#EXTINF:-1 group-title="Xumo" tvg-id="99991336" tvg-name="Maverick Black Cinema" tvg-logo="https://image.xumo.com/v1/channels/channel/99991336/168x168.png?type=color_onBlack",Maverick Black Cinema
+https://live-content.xumo.com/259/content/XM0MOUJJ0O1OSU/27695282/master.m3u8
+#EXTINF:-1 group-title="Xumo" tvg-id="99991621" tvg-name="Universal Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack",Universal Movies
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_web_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=f8bde19f-52b0-4a2e-a50b-2f4497dd4ef6&ads._fw_vcid2=512116:f8bde19f-52b0-4a2e-a50b-2f4497dd4ef6&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
+#EXTINF:-1 group-title="Xumo" tvg-id="99951239" tvg-name="Murder, She Wrote" tvg-logo="https://image.xumo.com/v1/channels/channel/99951239/168x168.png?type=color_onBlack",Murder; She Wrote
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951239/hls/master.m3u8?ads.xumo_channelId=99951239&ads.asnw=169843&ads.afid=380744959&ads.sfid=19208080&ads.csid=xumo_web_NBCUMurderSheWrote_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=0cef4c99-5585-4a18-858b-f8565a753d94&ads._fw_vcid2=512116:0cef4c99-5585-4a18-858b-f8565a753d94&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3927&ads.xumo_contentName=NBCUMurderSheWrote&ads.xumo_providerId=3927&ads.xumo_providerName=NBCUMurderSheWrote&ads.channelId=99951239&ads._fw_ifa_type=
+#EXTINF:-1 group-title="Xumo" tvg-id="99951277" tvg-name="Ghost Hunters Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951277/168x168.png?type=color_onBlack",Ghost Hunters Channel
+https://live-content.xumo.com/3976/content/XM0OVNNVN0NV1C/25842103/master.m3u8
+#EXTINF:-1 group-title="Xumo" tvg-id="99951218" tvg-name="Xumo Free Nature & Wildlife TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951218/168x168.png?type=color_onBlack",Xumo Free Nature & Wildlife TV
+https://live-content.xumo.com/3878/content/XM0JQWPJ71D11K/27308841/master.m3u8
+#EXTINF:-1 group-title="Xumo" tvg-id="99991113" tvg-name="Deal Or No Deal" tvg-logo="https://image.xumo.com/v1/channels/channel/99991113/168x168.png?type=color_onBlack",Deal Or No Deal
+https://live-content.xumo.com/2041/content/XM0VHC0SE4OA51/22043268/master.m3u8
+#EXTINF:-1 group-title="Xumo" tvg-id="99951192" tvg-name="Anger Management Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951192/168x168.png?type=color_onBlack",Anger Management Channel
+https://live-content.xumo.com/3828/content/XM012BD0NG0T1X/24350434/master.m3u8
+#EXTINF:-1 group-title="Xumo" tvg-id="99951258" tvg-name="The Lone Ranger" tvg-logo="https://image.xumo.com/v1/channels/channel/99951258/168x168.png?type=color_onBlack",The Lone Ranger
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951258/hls/master.m3u8?ads.xumo_channelId=99951258&ads.asnw=169843&ads.afid=380749191&ads.sfid=19301271&ads.csid=xumo_web_NBCUTheLoneRanger_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=66e89b41-fcf8-4147-b193-6e2f816c2ef6&ads._fw_vcid2=512116:66e89b41-fcf8-4147-b193-6e2f816c2ef6&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3945&ads.xumo_contentName=NBCUTheLoneRanger&ads.xumo_providerId=3945&ads.xumo_providerName=NBCUTheLoneRanger&ads.channelId=99951258&ads._fw_ifa_type=
+#EXTINF:-1 group-title="Xumo" tvg-id="99951256" tvg-name="Alfred Hitchcock Presents" tvg-logo="https://image.xumo.com/v1/channels/channel/99951256/168x168.png?type=color_onBlack",Alfred Hitchcock Presents
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951256/hls/master.m3u8?ads.xumo_channelId=99951256&ads.asnw=169843&ads.afid=380740685&ads.sfid=19316482&ads.csid=xumo_web_NBCUAlfredHitchcockPresents_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=d1c1b23c-1268-48ad-bc8f-57817eaee4be&ads._fw_vcid2=512116:d1c1b23c-1268-48ad-bc8f-57817eaee4be&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3937&ads.xumo_contentName=NBCUAlfredHitchcockPresents&ads.xumo_providerId=3937&ads.xumo_providerName=NBCUAlfredHitchcockPresents&ads.channelId=99951256&ads._fw_ifa_type=
+#EXTINF:-1 group-title="Xumo" tvg-id="99991331" tvg-name="The Asylum" tvg-logo="https://image.xumo.com/v1/channels/channel/99991331/168x168.png?type=color_onBlack",The Asylum
+https://live-content.xumo.com/275/content/XM0VR9Z65XPBQQ/28101637/master.m3u8
+#EXTINF:-1 group-title="Xumo" tvg-id="9999615" tvg-name="Dark Matter TV" tvg-logo="https://image.xumo.com/v1/channels/channel/9999615/168x168.png?type=color_onBlack",Dark Matter TV
+https://live-content.xumo.com/3346/content/XM05YH9R48QZ7Y/25771428/master.m3u8
+#EXTINF:-1 group-title="Xumo" tvg-id="99991769" tvg-name="Paranormal Files" tvg-logo="https://image.xumo.com/v1/channels/channel/99991769/168x168.png?type=color_onBlack",Paranormal Files
+https://live-content.xumo.com/2623/content/XM02224H1IM5Y6/26341623/master.m3u8
+#EXTINF:-1 group-title="Xumo" tvg-id="99951264" tvg-name="Universal Monsters" tvg-logo="https://image.xumo.com/v1/channels/channel/99951264/168x168.png?type=color_onBlack",Universal Monsters
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_channelId=99951264&ads.asnw=169843&ads.afid=380753606&ads.sfid=19301317&ads.csid=xumo_web_NBCUUniversalMonsters_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=5c427c8d-063d-47cd-9815-af97d6ab6bbc&ads._fw_vcid2=512116:5c427c8d-063d-47cd-9815-af97d6ab6bbc&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.channelId=99951264&ads._fw_ifa_type=
+#EXTINF:-1 group-title="Xumo" tvg-id="99951375" tvg-name="Haunt TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951375/168x168.png?type=color_onBlack",Haunt TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99951375/hls/playlist.m3u8?ads.xumo_channelId=99951375&ads._fw_ifa_type=&ads._fw_did=03fa4ac6-222c-4d21-a877-a5a14c872b64&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=BlueAntMediaHauntTV&ads.csid=xumo_web_BlueAntMediaHauntTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4172&ads.xumo_contentName=BlueAntMediaHauntTV&ads.xumo_providerId=4172&ads.xumo_providerName=BlueAntMediaHauntTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951375&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#Radio
+#EXTINF:-1 tvg-id="沈阳之声" tvg-name="沈阳之声" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Radio",沈阳之声广播1045
+https://live.ximalaya.com/radio-first-page-app/live/328/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="沈阳都市广播92.1" tvg-name="沈阳都市广播92.1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Radio",沈阳都市广播92.1
+https://live.ximalaya.com/radio-first-page-app/live/331/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="沈阳交通广播" tvg-name="沈阳交通广播" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Radio",沈阳交通广播fm98.6
+https://live.ximalaya.com/radio-first-page-app/live/329/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="辽宁生活广播fm1034" tvg-name="辽宁生活广播fm1034" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Radio",辽宁生活广播fm1034
+https://live.ximalaya.com/radio-first-page-app/live/2815/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="河北音乐广播" tvg-name="河北音乐广播" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Radio",河北音乐广播1024
+https://live.ximalaya.com/radio-first-page-app/live/494/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="AsiaFM亚洲粤语台" tvg-name="AsiaFM亚洲粤语台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Radio",AsiaFM亚洲粤语台
+https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="AsiaFM亚洲音乐台" tvg-name="AsiaFM亚洲音乐台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Radio",AsiaFM亚洲音乐台
+https://live.ximalaya.com/radio-first-page-app/live/764/64.m3u8?transcode=ts
+#EXTINF:-1 tvg-id="AsiaFM亚洲经典台" tvg-name="AsiaFM亚洲经典台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Radio",AsiaFM亚洲经典台
+https://live.ximalaya.com/radio-first-page-app/live/1005/64.m3u8?transcode=ts
