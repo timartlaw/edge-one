@@ -56,6 +56,29 @@
         "default_reasoning_effort": "medium",
         "supports_attachments": false,
         "options": {}
+      },
+      {
+        "id": "zai-glm-4.7",
+        "name": "NVIDIA: GLM 4.7 357B",
+        "cost_per_1m_in": 1.0,
+        "cost_per_1m_out": 3.2,
+        "cost_per_1m_in_cached": 0.2,
+        "context_window": 204800,
+        "default_max_tokens": 65536,
+        "can_reason": true,
+        "supports_attachments": false
+      },
+      {
+        "id": "gpt-oss-120b",
+        "name": "Gpt Oss 120b",
+        "cost_per_1m_in": 4,
+        "cost_per_1m_out": 20,
+        "cost_per_1m_in_cached": 5.25,
+        "cost_per_1m_out_cached": 0.40,
+        "context_window": 1048576,
+        "default_max_tokens": 50000,
+        "can_reason": true,
+        "supports_attachments": true
       }
     ]
   },
