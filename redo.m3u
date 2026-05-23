@@ -82,8 +82,6 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="99951223" tvg-name="Sky News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951223/168x168.png?type=color_onBlack",Sky News
 https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223&ads._fw_ifa_type=&ads._fw_did=06013627-bd18-464c-8d5e-89809dd82853&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SkyNews&ads.csid=xumo_web_SkyNews_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3455&ads.xumo_contentName=SkyNews&ads.xumo_providerId=3455&ads.xumo_providerName=SkyNews&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951223&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="Sky News Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" tvg-id="SkyNewsArabia.ae" tvg-country="AE" group-title="News",Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="FR24FR" tvg-name="FR24FR" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/aljazeera.png" group-title="News",FR24FR
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-name="Tagesschau24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png" tvg-id="tagesschau24.de" tvg-country="DE" group-title="News",Tagesschau24
@@ -146,18 +144,10 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/in
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://i.imgur.com/QjJYohG.png" tvg-id="NDTVIndia.in" tvg-country="IN" group-title="News",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-name="Al Arabiya Business" tvg-logo="https://i.imgur.com/eEV4r6J.jpg" tvg-id="AlArabiyaBusiness.ae" tvg-country="AE" group-title="News",Al Arabiya Business
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="News",Al Arabiya (1080p)
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="News",Al Arabiya alhadath (1080p)
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Kan11.il@SD" group-title="News",Kan 11 (1080p)
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-name="ערוץ 13" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/559px-Reshet13Logo2022.svg.png" tvg-id="Channel13.il" tvg-country="IL" group-title="News",ערוץ 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" tvg-id="AlJazeeraMubasher.qa" tvg-country="QA" group-title="News",Al Jazeera Mubasher
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #FR
 #EXTINF:-1 group-title="FR" tvg-id="BFMTV.fr@SD",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
@@ -193,8 +183,6 @@ https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8
 https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="FR" tvg-id="QwestTV.fr@SD",Qwest TV (1080p)
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="FR" tvg-id="GaliciaTVEuropa.es@SD",Galicia TV Europa (720p)
-https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #FUN
 #EXTINF:-1 tvg-id="99951387" tvg-name="CNN Originals" tvg-logo="https://image.xumo.com/v1/channels/channel/99951387/168x168.png?type=color_onBlack" group-title="FUN",CNN Originals
 https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387&ads._fw_ifa_type=&ads._fw_did=2950cfba-ae81-44d7-9453-7bdd1520201a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDCNNOriginals&ads.csid=xumo_web_WBDCNNOriginals_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951387&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -218,14 +206,14 @@ https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca@France" group-title="FUN",Nature Time France (1080p)
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HistoryHit.uk@SD" group-title="FUN",History Hit (720p)
-https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="FUN",America's Got Talent (1080p)
 https://d2mexh8isep4mf.cloudfront.net/AmericasGotTalent_GB.m3u8
 #EXTINF:-1 tvg-id="" group-title="FUN",American Idol (1080p)
 https://d2yn8dyffvmgy.cloudfront.net/AmericanIdol_GB.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD" group-title="FUN",Antiques Road Trip (1080p)
 https://d3v8uchko88gmi.cloudfront.net/PBSART_GB.m3u8
+#EXTINF:-1 tvg-id="" group-title="FUN",4K Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #DE
 #EXTINF:-1 tvg-id="WELT.de@SD" group-title="DE",WELT (576p)
 https://s6.hopslan.com/n24X/index.m3u8
@@ -256,9 +244,19 @@ https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #EXTINF:-1 group-title="DE" channel-id="ATBC3900001W3" tvg-id="ATBC3900001W3" tvg-chno="4352" tvg-name="The Wicked Tuna Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900001W3_20250107T022235SQUARE.png",The Wicked Tuna Channel
 https://jmp2.uk/stvp-ATBC3900001W3
 #AB
+#EXTINF:-1 tvg-name="Sky News Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" tvg-id="SkyNewsArabia.ae" tvg-country="AE" group-title="AB",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" tvg-id="AlJazeeraMubasher.qa" tvg-country="QA" group-title="AB",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Arabic" group-title="AB",France 24 Arabic (1080p)
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk@SD" group-title="AB",BBC Arabic (720p)
+#EXTINF:-1 tvg-name="Al Arabiya Business" tvg-logo="https://i.imgur.com/eEV4r6J.jpg" tvg-id="AlArabiyaBusiness.ae" tvg-country="AE" group-title="AB",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="AB",Al Arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="AB",Al Arabiya alhadath (1080p)
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-name="Sharjah TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sharjah-tv-ae.png" tvg-id="SharjahTV.ae" tvg-country="AE" group-title="AB",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
@@ -277,6 +275,8 @@ https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaPrograms.ae@SD" group-title="AB",Al Arabiya Programs (1280p)
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #Tor
+#EXTINF:-1 group-title="Tor" tvg-id="GaliciaTVEuropa.es@SD",Galicia TV Europa (720p)
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 channel-id="KR3200003RR" tvg-id="KR3200003RR" tvg-chno="798" tvg-name="코난 오브라이언 쇼" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200003RR_20260422T014111SQUARE.png" group-title="Tor",코난 오브라이언 쇼
 https://jmp2.uk/stvp-KR3200003RR
 #EXTINF:-1 tvg-id="BBC Two" tvg-name="BBC Two" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/BBCWORLDNEWSASIA.png" group-title="Tor",BBC Two
@@ -291,8 +291,6 @@ https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 #EXTINF:-1 group-title="Tor" tvg-id="",Horror TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
-#EXTINF:-1 group-title="Tor" tvg-id="",4K Travel TV
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 group-title="Tor" tvg-id="",Bang Bang TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
 #EXTINF:-1 group-title="Tor" tvg-id="",Best Action TV
