@@ -1,21 +1,11 @@
 function Show-MainMenu {
     Write-Host "`nSelect an option:" -ForegroundColor Cyan
     Write-Host "1. Show System Hostname" -ForegroundColor Green
-    Write-Host "2. z-ai/glm4.7" -ForegroundColor Green
-    Write-Host "3. minimaxai/minimax-m2.1" -ForegroundColor Green
-    Write-Host "4. gemini-3-pro-preview" -ForegroundColor Green
-    Write-Host "5. gemini-3-flash-preview" -ForegroundColor Green
-    Write-Host "6. gemini-3-pro-image-preview" -ForegroundColor Green
-    Write-Host "7. gemini-2.5-flash" -ForegroundColor Green
-    Write-Host "8. gemini-2.5-flash-lite" -ForegroundColor Green
-    Write-Host "9. gpt-oss-120b-medium" -ForegroundColor Green
-    Write-Host "0. tab_flash_lite_preview" -ForegroundColor Green
-    Write-Host "a. tab_jump_flash_lite_preview" -ForegroundColor Green
-    Write-Host "b. gemini-claude-sonnet-4-5" -ForegroundColor Green
-    Write-Host "c. gemini-claude-sonnet-4-5-thinking" -ForegroundColor Green
-    Write-Host "d. gemini-claude-opus-4-5-thinking" -ForegroundColor Green
-    Write-Host "e. claude-opus-4-6-thinking" -ForegroundColor Green
-    Write-Host "f. moonshotai/kimi-k2.5" -ForegroundColor Green
+    Write-Host "2. z-ai/glm-5.1" -ForegroundColor Green
+    Write-Host "3. minimaxai/minimax-m2.7" -ForegroundColor Green
+    Write-Host "4. moonshotai/kimi-k2.6" -ForegroundColor Green
+    Write-Host "5. qwen/qwen3-coder-480b-a35b-instruct"" -ForegroundColor Green
+    Write-Host "6. deepseek-ai/deepseek-coder-6.7b-instruct" -ForegroundColor Green
     Write-Host "Q. Quit" -ForegroundColor Yellow
 
     if ($args.Count -gt 1) {
@@ -31,49 +21,19 @@ function Show-MainMenu {
             Show-MainMenu
         }
         '2' {
-            $env:ANTHROPIC_MODEL = "z-ai/glm4.7"
+            $env:ANTHROPIC_MODEL = "z-ai/glm-5.1"
         }
         '3' {
-            $env:ANTHROPIC_MODEL = "minimaxai/minimax-m2.1"
+            $env:ANTHROPIC_MODEL = "minimaxai/minimax-m2.7"
         }
         '4' {
-            $env:ANTHROPIC_MODEL = "gemini-3-pro-preview"
+            $env:ANTHROPIC_MODEL = "moonshotai/kimi-k2.6"
         }
         '5' {
-            $env:ANTHROPIC_MODEL = "gemini-3-flash-preview"
+            $env:ANTHROPIC_MODEL = "qwen/qwen3-coder-480b-a35b-instruct""
         }
         '6' {
-            $env:ANTHROPIC_MODEL = "gemini-3-pro-image-preview"
-        }
-        '7' {
-            $env:ANTHROPIC_MODEL = "gemini-2.5-flash"
-        }
-        '8' {
-            $env:ANTHROPIC_MODEL = "gemini-2.5-flash-lite"
-        }
-        '9' {
-            $env:ANTHROPIC_MODEL = "gpt-oss-120b-medium"
-        }
-        '0' {
-            $env:ANTHROPIC_MODEL = "tab_flash_lite_preview"
-        }
-        'a' {
-            $env:ANTHROPIC_MODEL = "tab_jump_flash_lite_preview"
-        }
-        'b' {
-            $env:ANTHROPIC_MODEL = "gemini-claude-sonnet-4-5"
-        }
-        'c' {
-            $env:ANTHROPIC_MODEL = "gemini-claude-sonnet-4-5-thinking"
-        }
-        'd' {
-            $env:ANTHROPIC_MODEL = "gemini-claude-opus-4-5-thinking"
-        }
-        'e' {
-            $env:ANTHROPIC_MODEL = "claude-opus-4-6-thinking"
-        }
-        'f' {
-            $env:ANTHROPIC_MODEL = "moonshotai/kimi-k2.5"
+            $env:ANTHROPIC_MODEL = "deepseek-ai/deepseek-coder-6.7b-instruct"
         }
         'q' {
             $env:ANTHROPIC_MODEL =
@@ -95,10 +55,10 @@ $ClaudeBin = "C:\Users\11605\.local\bin\claude.exe"
 # Inject API credentials as environment variables for the current process
 $env:ANTHROPIC_AUTH_TOKEN = "YOUR_KEY"
 $env:ANTHROPIC_BASE_URL = "http://localhost:8317"
-$env:ANTHROPIC_DEFAULT_HAIKU_MODEL = "nvi/minimaxai/minimax-m2.1"
-$env:ANTHROPIC_DEFAULT_SONNET_MODEL = "gemini-claude-sonnet-4-5"
-$env:ANTHROPIC_DEFAULT_OPUS_MODEL = "nvi/z-ai/glm4.7"
-# $env:ANTHROPIC_THINKING_MODEL = "gemini-claude-opus-4-5-thinking"
+$env:ANTHROPIC_DEFAULT_HAIKU_MODEL = "nvi/minimaxai/minimax-m2.7"
+$env:ANTHROPIC_DEFAULT_SONNET_MODEL = "moonshotai/kimi-k2.6"
+$env:ANTHROPIC_DEFAULT_OPUS_MODEL = "nvi/z-ai/glm-5.1"
+# $env:ANTHROPIC_THINKING_MODEL = "deepseek-ai/deepseek-coder-6.7b-instruct"
 $env:API_TIMEOUT_MS = "3000000"
 
 # Optional: Set a separate config directory
@@ -139,16 +99,16 @@ Get-Item env:ANTHROPIC*
 #     api-key-entries:
 #       - api-key: nvapi-
 #     models:
-#       - name: z-ai/glm4.7
+#       - name: z-ai/glm-5.1
 #         alias: ""
-#       - name: minimaxai/minimax-m2.1
+#       - name: minimaxai/minimax-m2.7
 #         alias: ""
 # payload:
 #   override:
 #     - models:
-#         - name: "minimaxai/minimax-m2.1"
+#         - name: "minimaxai/minimax-m2.7"
 #           protocol: "openai"
-#         - name: "z-ai/glm4.7"
+#         - name: "z-ai/glm-5.1"
 #           protocol: "openai"
 #       params:
 #         "reasoning.effort": "high"
@@ -160,8 +120,8 @@ Get-Item env:ANTHROPIC*
 #       "api_base_url": "https://integrate.api.nvidia.com/v1/chat/completions",
 #       "api_key": "nvapi-",
 #       "models": [
-#         "minimaxai/minimax-m2.1",
-#         "z-ai/glm4.7"
+#         "minimaxai/minimax-m2.7",
+#         "z-ai/glm-5.1"
 #       ],
 #       "transformer": {
 #         "use": [
@@ -177,7 +137,7 @@ Get-Item env:ANTHROPIC*
 # # CCR
 # $env:ANTHROPIC_AUTH_TOKEN = "YOUR_KEY"
 # $env:ANTHROPIC_BASE_URL = "http://localhost:3456"
-# $env:ANTHROPIC_MODEL = "z-ai/glm4.7"
+# $env:ANTHROPIC_MODEL = "z-ai/glm-5.1"
 # $env:API_TIMEOUT_MS = "3000000"
 
 # # Optional: Set a separate config directory
