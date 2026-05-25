@@ -204,8 +204,14 @@ https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="FUN",Wild Planet (1080p)
 https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUN",Wild Nature (1080p)
+https://dhiy0zcig7ty1.cloudfront.net/scheduler/scheduleMaster/491.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@SD" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="FUN",NatureTime Finland (1080p)
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca@France" group-title="FUN",Nature Time France (1080p)
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca@SD" tvg-logo="https://i.imgur.com/882kd90.png" group-title="FUN",Stingray Naturescape (1080p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="FUN",America's Got Talent (1080p)
 https://d2mexh8isep4mf.cloudfront.net/AmericasGotTalent_GB.m3u8
 #EXTINF:-1 tvg-id="" group-title="FUN",American Idol (1080p)
@@ -246,19 +252,24 @@ https://jmp2.uk/stvp-ATBC3900001W3
 #AB
 #EXTINF:-1 tvg-name="Sky News Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" tvg-id="SkyNewsArabia.ae" tvg-country="AE" group-title="AB",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="CNBCArabiya.ae@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png" group-title="AB",CNBC Arabiya (1080p)
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" tvg-id="AlJazeeraMubasher.qa" tvg-country="QA" group-title="AB",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Arabic" group-title="AB",France 24 Arabic (1080p)
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk@SD" group-title="AB",BBC Arabic (720p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="DW.de@Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="AB",DW Arabic (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 #EXTINF:-1 tvg-name="Al Arabiya Business" tvg-logo="https://i.imgur.com/eEV4r6J.jpg" tvg-id="AlArabiyaBusiness.ae" tvg-country="AE" group-title="AB",Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="AB",Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="AB",Al Arabiya alhadath (1080p)
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma@SD" tvg-logo="https://i.imgur.com/3YsZPY6.jpeg" group-title="AB",Medi 1 TV Arabic (1080p)
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8
 #EXTINF:-1 tvg-name="Sharjah TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sharjah-tv-ae.png" tvg-id="SharjahTV.ae" tvg-country="AE" group-title="AB",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Wousta" tvg-logo="https://i5.satexpat.com/cha/ae/al-wousta-95x90.gif" tvg-id="SharjahSports.ae" tvg-country="AE" group-title="AB",Al Wousta
