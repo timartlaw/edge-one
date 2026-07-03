@@ -19,8 +19,8 @@
         "default_max_tokens": 128000
       },
       {
-        "id": "z-ai/glm-5.1",
-        "name": "NVIDIA: GLM-5.1",
+        "id": "z-ai/glm-5.2",
+        "name": "NVIDIA: GLM-5.2",
         "cost_per_1m_in": 1.4,
         "cost_per_1m_out": 4.4,
         "cost_per_1m_in_cached": 0.26,
