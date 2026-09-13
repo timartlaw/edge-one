@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="http://arva.netgenx.site/epg/kai-epg.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #Sports
-#EXTINF:-1 tvg-id="Shin" tvg-name="Shin" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Shin
-https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?auth_key=1766246779-0-0-28fef51b7f0c9bad3dfac9520d8eb8f4
-#EXTINF:-1 tvg-id="Beck" tvg-name="Beck" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Beck
-https://pullsgp.yyzb456.top/live/stream-558696_lhd.m3u8?auth_key=1763305990-0-0-7d4d541710d5ac8b9f50437825787d6b
-#EXTINF:-1 tvg-id="Deer" tvg-name="Deer" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Deer
-https://pullsgp.yyzb456.top/live/stream-606060_lhd.m3u8?auth_key=1763301731-0-0-a1bd601b5b86962710552fe7321a78ff
-#EXTINF:-1 tvg-id="Tiger" tvg-name="Deer" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Tiger
-https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8?auth_key=1778340357-0-0-ea15520e614e29e6894130467b9961a4
-#EXTINF:-1 tvg-id="Wong" tvg-name="Deer" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Wong
-https://pullsgp.yyzb456.top/live/stream-592870_lhd.m3u8?auth_key=1778339877-0-0-0ef044932093bbdf9b07f5c4b00e6d41
+#EXTINF:-1 tvg-id="Chao" tvg-name="Chao" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Chao
+https://hwyypull.ncctrials.com/live/stream-558696_lhd.m3u8?auth_key=1789309187-0-0-2c05522df3d2b930e509e570aed68ef1
+#EXTINF:-1 tvg-id="Bati" tvg-name="Bati" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Bati
+https://pull.qjkngv.com/live/stream-659561_lhd.m3u8?auth_key=1789309368-0-0-9124b5ff2bc8f00ca38c9cb87efdee4f
+#EXTINF:-1 tvg-id="Sima" tvg-name="Sima" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Sima
+https://hwyypull.ncctrials.com/live/stream-238362_lhd.m3u8?auth_key=1789309670-0-0-aedd76eeb74baf6f52c6bd1824686f17
+#EXTINF:-1 tvg-id="Playball" tvg-name="Playball" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Playball
+https://pull.qjkngv.com/live/stream-558512_lhd.m3u8?auth_key=1789310091-0-0-a9177cc2b3ea3e5e1e2f5842637cb5b4
+#EXTINF:-1 tvg-id="Repo" tvg-name="Repo" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Repo
+https://pull.qjkngv.com/live/stream-699438_lhd.m3u8?auth_key=1789310272-0-0-e04b9505175467a0170ee3dfb94f6478
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports",ESPN
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.U.us" tvg-name="" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png" group-title="Sports",ESPN U US
