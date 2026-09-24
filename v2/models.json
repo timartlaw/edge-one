@@ -1,0 +1,32 @@
+{
+  "providers": {
+    "my-cliproxyapi": {
+      "baseUrl": "http://localhost:8317",
+      "api": "anthropic-messages",
+      "apiKey": "$TIMEX_API_KEY",
+      "models": [
+        {
+          "id": "z-ai/glm-5.3",
+          "name": "GLM-5.3",
+          "input": ["text", "image"],
+          "contextWindow": 262144,
+          "reasoning": true
+        }
+      ]
+    },
+    "my-nvidia": {
+      "baseUrl": "https://integrate.api.nvidia.com/v1",
+      "api": "openai-completions",
+      "apiKey": "$TIMGPT_API_KEY",
+      "models": [
+        {
+          "id": "z-ai/glm-5.3",
+          "name": "GLM-5.3",
+          "input": ["text", "image"],
+          "contextWindow": 262144,
+          "reasoning": true
+        }
+      ]
+    }
+  }
+}
