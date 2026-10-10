@@ -11,6 +11,10 @@ https://hwyypull.ncctrials.com/live/stream-238362_lhd.m3u8?auth_key=1789309670-0
 https://pull.qjkngv.com/live/stream-558512_lhd.m3u8?auth_key=1789310091-0-0-a9177cc2b3ea3e5e1e2f5842637cb5b4
 #EXTINF:-1 tvg-id="Repo" tvg-name="Repo" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Repo
 https://pull.qjkngv.com/live/stream-699438_lhd.m3u8?auth_key=1789310272-0-0-e04b9505175467a0170ee3dfb94f6478
+#EXTINF:-1 tvg-id="Ann" tvg-name="Ann" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Ann
+https://hwyypull.ncctrials.com/live/stream-780668_lhd.m3u8?auth_key=1791649085-0-0-1f4e157a8ed6a4554c4fe946bfe102e1
+#EXTINF:-1 tvg-id="Sizi" tvg-name="Sizi" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Sizi
+https://hwyypull.ncctrials.com/live/stream-724913_lhd.m3u8?auth_key=1791649625-0-0-0ac5319d6eec61ee0f2fd0051ea53112
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports",ESPN
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.U.us" tvg-name="" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png" group-title="Sports",ESPN U US
