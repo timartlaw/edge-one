@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://arva.netgenx.site/epg/kai-epg.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #Sports
+#EXTINF:-1 tvg-id="Shin" tvg-name="Shin" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Shin
+https://pull.qjkngv.com/live/stream-597728_lhd.m3u8?auth_key=1792607285-0-0-b831a02cc73700e660945a5a4d738153
 #EXTINF:-1 tvg-id="Chao" tvg-name="Chao" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Chao
 https://hwyypull.ncctrials.com/live/stream-558696_lhd.m3u8?auth_key=1789309187-0-0-2c05522df3d2b930e509e570aed68ef1
 #EXTINF:-1 tvg-id="Bati" tvg-name="Bati" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="Sports",Bati
